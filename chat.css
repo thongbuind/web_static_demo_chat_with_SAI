@@ -924,3 +924,69 @@ textarea:disabled { opacity: 0.4; cursor: not-allowed; }
   .demo-notice-card { animation: none; }
   .demo-notice { transition: none; }
 }
+
+/* ===== MOBILE CHAT REFINEMENT ===== */
+@media (max-width: 640px) {
+  #chat {
+    padding: 20px 0 28px;
+  }
+
+  .message-row {
+    padding: 0 14px 10px;
+  }
+
+  .message-row.ai {
+    gap: 8px;
+  }
+
+  .ai-msg-body {
+    max-width: calc(100% - 32px);
+    gap: 2px;
+  }
+
+  .bubble {
+    max-width: none;
+    font-size: 13.5px;
+    line-height: 1.55;
+  }
+
+  .user .bubble {
+    max-width: 88%;
+    padding: 9px 13px;
+    border-radius: 16px 16px 4px 16px;
+  }
+
+  .ai .bubble {
+    padding: 9px 12px;
+    text-align: left;
+    overflow-wrap: anywhere;
+    word-break: normal;
+    border-radius: 3px 12px 12px 12px;
+  }
+
+  .ai-avatar {
+    width: 24px;
+    height: 24px;
+    margin-top: 1px;
+    font-size: 8.5px;
+  }
+
+  .feedback-row {
+    gap: 2px;
+  }
+
+  .feedback-btn {
+    width: 30px;
+    height: 30px;
+  }
+
+  .feedback-btn svg {
+    width: 15px;
+    height: 15px;
+  }
+
+  .model-label-row {
+    padding: 8px 14px 4px 46px;
+    font-size: 10px;
+  }
+}
