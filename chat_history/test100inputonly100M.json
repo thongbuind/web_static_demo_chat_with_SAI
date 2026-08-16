@@ -22,30 +22,65 @@
       "text": "thủ đô của việt nam là hà nội. hà nội nằm ở miền bắc việt nam, có vị trí địa lý quan trọng trong lịch sử và văn hóa của đất nước. thành phố này nổi tiếng với kiến trúc cổ kính, các di tích lịch sử như hoàng thành thăng long, chùa một cột, lăng chủ tịch hồ chí minh và nhiều công trình kiến trúc độc đáo khác. ngoài ra, hà nội cũng là trung tâm chính trị, kinh tế, văn hóa quan trọng của quốc gia, thu hút du khách từ khắp nơi trên thế giới.",
       "model": "sft1_100M.pt"
     },
-    {
+        {
       "role": "user",
-      "text": "Việt Nam nằm ở châu nào?",
+      "text": "thông tin về manchester united",
       "model": null
     },
     {
       "role": "ai",
-      "text": "hà nội là thủ đô và thành phố lớn nhất của việt nam. hà nội có diện tích khoảng 130 km², dân số hơn 9 triệu người (tính đến năm 2024). đây cũng là trung tâm chính trị, kinh tế, văn hóa quan trọng của đất nước.",
+      "text": "manchester united là một trong những câu lạc bộ bóng đá nổi tiếng và thành công nhất thế giới, có trụ sở tại old trafford. được thành lập vào năm 1878 với tên gọi ban đầu là newton heath lyr f.c., đội đã giành nhiều danh hiệu lớn như premier league, fa cup và uefa champions league. dưới sự dẫn dắt của sir alex ferguson từ cuối thập niên 1950 đến đầu thập kỷ 2010, họ đã đạt được nhiều thành tựu ấn tượng, bao gồm việc giành chức vô địch ngoại hạng anh (premier league) lần thứ hai trong lịch sử giải đấu. mu cũng nổi bật với phong cách chơi tấn công sáng tạo, kỹ thuật cá nhân xuất sắc và tinh thần chiến đấu không ngừng nghỉ. ngoài ra, clb còn phát triển mạnh mẽ các tài năng trẻ như ryan giggs, paul scholes, eric cantona và cristiano ronaldo, góp phần làm nên sức",
       "model": "sft1_100M.pt"
     },
     {
       "role": "user",
-      "text": "Trái Đất có hình gì?",
+      "text": "max verstappen là ai",
       "model": null
     },
     {
       "role": "ai",
-      "text": "trái đất là hành tinh lớn nhất trong hệ mặt trời, với đường kính khoảng 13.400 km (29.500 dặm). nó nằm ở vị trí thứ hai trên quỹ đạo quanh mặt trời và cách trái đất khoảng 678 triệu km về phía tây nam. trái đất được chia thành ba phần chính: bán cầu bắc, bán cầu nam và bán cầu đông. đây cũng là nơi sinh sống của nhiều loài động vật đa dạng như chim, cá, bò sát và các sinh vật biển phong phú khác. ngoài ra, trái đất còn nổi tiếng với cảnh quan thiên nhiên tuyệt đẹp bao gồm núi non hùng vĩ, đồng cỏ rộng lớn và hệ thống sông ngòi phức tạp, góp phần làm cho nó trở thành một điểm đến hấp dẫn đối với du khách từ khắp nơi trên thế giới.",
+      "text": "anh sinh ngày 24 tháng 6 năm 1987 tại hasselt, bỉ. anh bắt đầu sự nghiệp đua xe từ khi còn rất nhỏ và nhanh chóng trở thành một trong những tay đua xuất sắc nhất thế hệ của mình.",
       "model": "sft1_100M.pt"
     },
     {
       "role": "user",
-      "text": "Mặt Trời là một ngôi sao đúng không?",
+      "text": "vì sao giải đua xe F1 hấp dẫn trong lòng người hâm mộ",
       "model": null
+    },
+    {
+      "role": "ai",
+      "text": "giải đua xe công thức 1 (formula one) là một sự kiện thể thao đỉnh cao, thu hút hàng triệu khán giả trên toàn thế giới. nó không chỉ đơn thuần là cuộc cạnh tranh về tốc độ mà còn là sự kết hợp hoàn hảo giữa kỹ thuật lái xe điêu luyện và chiến lược thi đấu thông minh của các tay đua xuất sắc nhất.\n\ncác đội đua nổi tiếng như ferrari, red bull racing hay mclaren đã chứng tỏ sức mạnh vượt trội qua từng chặng đua. mỗi mùa giải đều mang đến những màn trình diễn ấn tượng, từ những vòng phân hạng đầy kịch tính cho đến việc tối ưu hóa hiệu suất xe để giành vị trí cao nhất trên bảng xếp hạng. ngoài ra, f1 còn là nơi giao lưu văn hóa, quảng bá hình ảnh và thương hiệu cá nhân, tạo nên một cộng đồng fan hâm mộ vô cùng trung thành và mãnh liệt.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "ẩm thực Việt Nam có gì thú vị",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "việt nam nổi tiếng với nền ẩm thực phong phú và đa dạng, thu hút du khách từ khắp nơi trên thế giới. một trong những món ăn không thể bỏ qua là phở, đặc sản của hà nội, với nước dùng thơm ngon được ninh từ xương bò hoặc gà cùng các loại gia vị như quế, hồi, thảo quả tạo nên hương vị đậm đà khó quên. bánh mì cũng là một lựa chọn tuyệt vời, với lớp vỏ giòn tan bên ngoài nhưng vẫn mềm mại bên trong, thường được kết hợp với thịt nướng, pate, rau sống và nước sốt để tăng thêm sự hấp dẫn cho bữa ăn. gỏi cuốn là món ăn nhẹ nhàng, tươi mát, rất thích hợp để thưởng thức vào buổi sáng hoặc khi cảm thấy mệt mỏi sau một ngày làm việc căng thẳng. ngoài ra, bún chả hay nem rán cũng là những món không thể thiếu, mang đến trải nghiệm ẩm thực độc đáo cho người dân địa phương. cuối cùng, không thể không nhắc đến cơm tấm,",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "hướng dẫn tôi cách nấu món phở",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để nấu một bát phở ngon, đầu tiên bạn cần chuẩn bị nước dùng từ xương bò hoặc gà để ninh lấy nước dùng trong khoảng 6-8 tiếng; sau đó lọc bỏ bọt và cặn bẩn rồi cho vào nồi cùng với các gia vị như hành nướng, gừng nướng, quế, hồi, thảo quả, đinh hương để tạo mùi thơm đặc trưng. tiếp theo, nêm nếm nước dùng bằng muối, đường phèn, nước mắm sao cho vừa ăn. khi ăn, trụng bánh phở qua nước sôi, xếp thịt bò tái hoặc chín lên trên, chan nước dùng nóng hổi lên, thêm rau thơm như húng quế, ngò gai, giá đỗ, chanh, ớt tùy khẩu vị. cuối cùng, thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị đậm đà của phở truyền thống việt nam.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "định nghĩa của nông thôn",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "nông thôn là khu vực địa lý nằm ngoài thành thị, chủ yếu bao gồm các vùng đất có mật độ dân cư thấp hơn so với đô thị. đời sống xã hội ở nông thôn thường gắn bó chặt chẽ với thiên nhiên và các hoạt động truyền thống, đồng thời có đặc điểm văn hóa, phong tục tập quán riêng biệt so với thành thị. nông thôn đóng vai trò quan trọng trong việc cung cấp lương thực, thực phẩm và duy trì cân bằng sinh thái.",
+      "model": "sft1_100M.pt"
     },
     {
       "role": "ai",
@@ -75,6 +110,31 @@
     {
       "role": "user",
       "text": "Một tuần có bao nhiêu ngày?",
+      "model": null
+    },
+        {
+      "role": "user",
+      "text": "Việt Nam nằm ở châu nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "hà nội là thủ đô và thành phố lớn nhất của việt nam. hà nội có diện tích khoảng 130 km², dân số hơn 9 triệu người (tính đến năm 2024). đây cũng là trung tâm chính trị, kinh tế, văn hóa quan trọng của đất nước.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Trái Đất có hình gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "trái đất là hành tinh lớn nhất trong hệ mặt trời, với đường kính khoảng 13.400 km (29.500 dặm). nó nằm ở vị trí thứ hai trên quỹ đạo quanh mặt trời và cách trái đất khoảng 678 triệu km về phía tây nam. trái đất được chia thành ba phần chính: bán cầu bắc, bán cầu nam và bán cầu đông. đây cũng là nơi sinh sống của nhiều loài động vật đa dạng như chim, cá, bò sát và các sinh vật biển phong phú khác. ngoài ra, trái đất còn nổi tiếng với cảnh quan thiên nhiên tuyệt đẹp bao gồm núi non hùng vĩ, đồng cỏ rộng lớn và hệ thống sông ngòi phức tạp, góp phần làm cho nó trở thành một điểm đến hấp dẫn đối với du khách từ khắp nơi trên thế giới.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Mặt Trời là một ngôi sao đúng không?",
       "model": null
     },
     {
@@ -1010,66 +1070,6 @@
     {
       "role": "ai",
       "text": "khi bạn cảm thấy đói, điều quan trọng nhất là duy trì một chế độ ăn uống cân bằng và giàu dinh dưỡng. hãy ưu tiên các thực phẩm giàu chất xơ (rau xanh, ngũ cốc nguyên hạt) để cung cấp năng lượng bền vững cho cơ thể. hạn chế đồ ăn nhanh, thức ăn chế biến sẵn và đường tinh luyện. ngoài ra, việc ngủ đủ giấc và quản lý căng thẳng cũng rất quan trọng; hãy đảm bảo ngủ đủ 7-9 tiếng mỗi đêm để cơ thể có thời gian phục hồi và tái tạo năng lượng.",
-      "model": "sft1_100M.pt"
-    },
-    {
-      "role": "user",
-      "text": "thông tin về manchester united",
-      "model": null
-    },
-    {
-      "role": "ai",
-      "text": "manchester united là một trong những câu lạc bộ bóng đá nổi tiếng và thành công nhất thế giới, có trụ sở tại old trafford. được thành lập vào năm 1878 với tên gọi ban đầu là newton heath lyr f.c., đội đã giành nhiều danh hiệu lớn như premier league, fa cup và uefa champions league. dưới sự dẫn dắt của sir alex ferguson từ cuối thập niên 1950 đến đầu thập kỷ 2010, họ đã đạt được nhiều thành tựu ấn tượng, bao gồm việc giành chức vô địch ngoại hạng anh (premier league) lần thứ hai trong lịch sử giải đấu. mu cũng nổi bật với phong cách chơi tấn công sáng tạo, kỹ thuật cá nhân xuất sắc và tinh thần chiến đấu không ngừng nghỉ. ngoài ra, clb còn phát triển mạnh mẽ các tài năng trẻ như ryan giggs, paul scholes, eric cantona và cristiano ronaldo, góp phần làm nên sức",
-      "model": "sft1_100M.pt"
-    },
-    {
-      "role": "user",
-      "text": "max verstappen là ai",
-      "model": null
-    },
-    {
-      "role": "ai",
-      "text": "anh sinh ngày 24 tháng 6 năm 1987 tại hasselt, bỉ. anh bắt đầu sự nghiệp đua xe từ khi còn rất nhỏ và nhanh chóng trở thành một trong những tay đua xuất sắc nhất thế hệ của mình.",
-      "model": "sft1_100M.pt"
-    },
-    {
-      "role": "user",
-      "text": "vì sao giải đua xe F1 hấp dẫn trong lòng người hâm mộ",
-      "model": null
-    },
-    {
-      "role": "ai",
-      "text": "giải đua xe công thức 1 (formula one) là một sự kiện thể thao đỉnh cao, thu hút hàng triệu khán giả trên toàn thế giới. nó không chỉ đơn thuần là cuộc cạnh tranh về tốc độ mà còn là sự kết hợp hoàn hảo giữa kỹ thuật lái xe điêu luyện và chiến lược thi đấu thông minh của các tay đua xuất sắc nhất.\n\ncác đội đua nổi tiếng như ferrari, red bull racing hay mclaren đã chứng tỏ sức mạnh vượt trội qua từng chặng đua. mỗi mùa giải đều mang đến những màn trình diễn ấn tượng, từ những vòng phân hạng đầy kịch tính cho đến việc tối ưu hóa hiệu suất xe để giành vị trí cao nhất trên bảng xếp hạng. ngoài ra, f1 còn là nơi giao lưu văn hóa, quảng bá hình ảnh và thương hiệu cá nhân, tạo nên một cộng đồng fan hâm mộ vô cùng trung thành và mãnh liệt.",
-      "model": "sft1_100M.pt"
-    },
-    {
-      "role": "user",
-      "text": "ẩm thực Việt Nam có gì thú vị",
-      "model": null
-    },
-    {
-      "role": "ai",
-      "text": "việt nam nổi tiếng với nền ẩm thực phong phú và đa dạng, thu hút du khách từ khắp nơi trên thế giới. một trong những món ăn không thể bỏ qua là phở, đặc sản của hà nội, với nước dùng thơm ngon được ninh từ xương bò hoặc gà cùng các loại gia vị như quế, hồi, thảo quả tạo nên hương vị đậm đà khó quên. bánh mì cũng là một lựa chọn tuyệt vời, với lớp vỏ giòn tan bên ngoài nhưng vẫn mềm mại bên trong, thường được kết hợp với thịt nướng, pate, rau sống và nước sốt để tăng thêm sự hấp dẫn cho bữa ăn. gỏi cuốn là món ăn nhẹ nhàng, tươi mát, rất thích hợp để thưởng thức vào buổi sáng hoặc khi cảm thấy mệt mỏi sau một ngày làm việc căng thẳng. ngoài ra, bún chả hay nem rán cũng là những món không thể thiếu, mang đến trải nghiệm ẩm thực độc đáo cho người dân địa phương. cuối cùng, không thể không nhắc đến cơm tấm,",
-      "model": "sft1_100M.pt"
-    },
-    {
-      "role": "user",
-      "text": "hướng dẫn tôi cách nấu món phở",
-      "model": null
-    },
-    {
-      "role": "ai",
-      "text": "để nấu một bát phở ngon, đầu tiên bạn cần chuẩn bị nước dùng từ xương bò hoặc gà để ninh lấy nước dùng trong khoảng 6-8 tiếng; sau đó lọc bỏ bọt và cặn bẩn rồi cho vào nồi cùng với các gia vị như hành nướng, gừng nướng, quế, hồi, thảo quả, đinh hương để tạo mùi thơm đặc trưng. tiếp theo, nêm nếm nước dùng bằng muối, đường phèn, nước mắm sao cho vừa ăn. khi ăn, trụng bánh phở qua nước sôi, xếp thịt bò tái hoặc chín lên trên, chan nước dùng nóng hổi lên, thêm rau thơm như húng quế, ngò gai, giá đỗ, chanh, ớt tùy khẩu vị. cuối cùng, thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị đậm đà của phở truyền thống việt nam.",
-      "model": "sft1_100M.pt"
-    },
-    {
-      "role": "user",
-      "text": "định nghĩa của nông thôn",
-      "model": null
-    },
-    {
-      "role": "ai",
-      "text": "nông thôn là khu vực địa lý nằm ngoài thành thị, chủ yếu bao gồm các vùng đất có mật độ dân cư thấp hơn so với đô thị. đời sống xã hội ở nông thôn thường gắn bó chặt chẽ với thiên nhiên và các hoạt động truyền thống, đồng thời có đặc điểm văn hóa, phong tục tập quán riêng biệt so với thành thị. nông thôn đóng vai trò quan trọng trong việc cung cấp lương thực, thực phẩm và duy trì cân bằng sinh thái.",
       "model": "sft1_100M.pt"
     }
   ],
