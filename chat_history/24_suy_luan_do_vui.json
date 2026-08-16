@@ -1,0 +1,89 @@
+{
+  "id": "test_24_suy_luan_do_vui",
+  "title": "Test nhóm 24_suy_luan_do_vui (8 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Cái gì càng lấy đi thì càng lớn hơn?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn đang hỏi về cái gì? vui lòng cung cấp thêm ngữ cảnh để tôi có thể trả lời chính xác.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nếu An nhiều tuổi hơn Bình và Bình nhiều tuổi hơn Chi thì ai ít tuổi nhất?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "an có tuổi thọ trung bình là khoảng từ 60 đến 75 tuổi. tuy nhiên, nếu bạn có tiền sử gia đình mắc bệnh mãn tính (như tiểu đường hoặc huyết áp cao), điều quan trọng là phải tham khảo ý kiến bác sĩ để được chẩn đoán chính xác và kế hoạch điều trị cá nhân hóa phù hợp với tình trạng sức khỏe của bạn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Con gì buổi sáng đi bằng 4 chân, buổi trưa đi bằng 2 chân, buổi tối đi bằng 3 chân?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin lỗi, tôi không thể cung cấp thông tin cụ thể về chuyến đi của bạn. vui lòng cung cấp thêm ngữ cảnh để tôi có thể trả lời câu hỏi này một cách chính xác nhất.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nếu hôm qua là thứ Ba thì 3 ngày sau hôm nay là thứ mấy?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cung cấp thêm thông tin để tôi có thể trả lời câu hỏi của bạn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Một năm có bao nhiêu tháng có đúng 30 ngày?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cung cấp thêm thông tin để tôi có thể trả lời câu hỏi của bạn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nếu tất cả mèo đều biết kêu meo meo, và Tom là một con mèo, thì Tom có biết kêu meo meo không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tom là một loài động vật thuộc họ mèo (felidae). chúng thường được tìm thấy ở các khu rừng nhiệt đới và cận nhiệt đới trên khắp thế giới.\n\ntuy nhiên, bạn cần lưu ý rằng đây chỉ là một số thông tin cơ bản về tom. nếu bạn cung cấp thêm chi tiết hoặc câu hỏi cụ thể nào khác, vui lòng cho tôi biết để tôi có thể trả lời chính xác hơn nhé!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Có 5 quả cam và 3 quả táo trong một giỏ, hỏi có tổng cộng bao nhiêu quả trong giỏ?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để tính tổng số quả cam trong giỏ, ta thực hiện các bước sau:\n\n**bước 1:** xác định số lượng quả cam ban đầu.\n*   **tổng số quả:** 5 + 3 = 8 quả.\n    *   số quả còn lại = (2 / 4) * 6 / 5 = 2/4.\n$$\\text{số quả cam} = \\frac{7}{2}$$\n\n---\n**đáp án cuối cùng:** 7 quả cam.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nếu một chiếc xe đi 60km trong 1 giờ thì đi 120km sẽ mất bao lâu?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "thời gian cần thiết để hoàn thành quãng đường này phụ thuộc vào loại phương tiện và điều kiện đường đua cụ thể. tuy nhiên, nếu tốc độ trung bình là khoảng 35 km/h (khoảng 48 dặm/giờ), bạn có thể đạt được quãng đường tối đa khoảng 70-90 km mỗi giờ.\n\ntuy nhiên, để đảm bảo an toàn tuyệt đối cho bản thân và người tham gia giao thông khác trên đường đua, việc duy trì tốc độ ổn định là rất quan trọng. hãy luôn kiểm tra hướng dẫn của nhà sản xuất hoặc tìm kiếm sự trợ giúp từ các nhân viên kỹ thuật hoặc đội ngũ hỗ trợ chuyên nghiệp để tránh tai nạn không mong muốn xảy ra trong suốt thời gian diễn ra cuộc đua.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914639.0586307,
+  "user_id": "33xcf3qr5yhh",
+  "shared": true
+}

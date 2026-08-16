@@ -1,0 +1,109 @@
+{
+  "id": "test_34_input_ngan_mo_ho",
+  "title": "Test nhóm 34_input_ngan_mo_ho (10 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "ê",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vâng tôi đây, việc gì thế anh",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "hmm",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vâng tôi đây, có việc gì không anh",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "vậy à",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vâng, tôi đây. bạn cần giúp gì?",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "ừ",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vâng tôi đây, có việc gì thế anh",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "ok",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vâng tôi đây, có việc gì không anh",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "rồi sao nữa",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "sao vậy anh, có việc gì cần giúp không ạ",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "thế á",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "\"á\" trong tiếng việt là một tính từ dùng để miêu tả trạng thái, hành động hoặc cách cư xử mang tính lịch sự, dịu dàng, tao nhã và tinh tế. khi ai đó được gọi là \"á\", thường nghĩa là họ cư xử một cách có phép tắc, biết giữ ý tứ, không thô lỗ hay quá mức, thể hiện sự tôn trọng người khác và có phong thái thanh lịch, nhẹ nhàng trong lời nói và hành động. ví dụ: \"cô ấy là á\" nghĩa là cô ấy rất lễ phép, dễ xúc phạm người khác.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "hả",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vâng tôi đây, có việc gì thế anh",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "cái gì cơ",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tôi là sai, một mô hình ngôn ngữ ai được phát triển bởi openai. tôi không có quyền truy cập vào dữ liệu và thông tin cá nhân của bạn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "thôi được",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vâng tôi đây, có việc gì không anh",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914895.4654188,
+  "user_id": "7ep7yxzrflch",
+  "shared": true
+}

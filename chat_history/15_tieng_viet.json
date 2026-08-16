@@ -1,0 +1,149 @@
+{
+  "id": "test_15_tieng_viet",
+  "title": "Test nhóm 15_tieng_viet (14 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Từ trái nghĩa với 'cao' là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "\"cao\" trong tiếng việt chỉ trạng thái hoặc tính chất của một vật thể, sự việc, hay tình huống nào đó. nó thường được dùng để miêu tả những thứ có cấu trúc, hình dạng, kích thước hoặc đặc điểm khác biệt rõ rệt so với các đối tượng khác. ví dụ: \"một chiếc xe ô tô chạy bằng động cơ đốt trong.\" từ này mang ý nghĩa tích cực vì nó biểu thị sự tiến bộ về kỹ thuật, công nghệ hoặc quy trình vận hành. tóm lại, \"cao\" ở đây ám chỉ mức độ hoàn thiện hoặc hiệu quả của một điều gì đó mà con người mong muốn đạt được trong cuộc sống hàng ngày.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Từ đồng nghĩa với 'vui' là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "\"vui\" trong tiếng việt có nghĩa là trạng thái cảm xúc tích cực, vui vẻ và thoải mái. nó thường được dùng để diễn tả sự hài lòng sâu sắc về mặt tinh thần khi người đó đạt được mục tiêu hoặc thành công nào đó. ví dụ: \"tôi rất vui mừng vì đã hoàn thành nhiệm vụ được giao.\" ngoài ra, \"vui vẻ\" cũng mang ý nghĩa tích cực liên quan đến niềm vui và hạnh phúc cá nhân.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Từ 'nhanh' thuộc loại từ gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "trong tiếng việt, \"nhanh\" là một tính từ dùng để miêu tả tốc độ hoặc sự nhanh nhẹn của một người. ví dụ: \"anh ấy chạy rất nhanh.\" nghĩa là anh ta có thể chạy nhanh hơn bất kỳ ai khác trong cùng khoảng thời gian đó.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Câu 'Hôm nay trời rất đẹp' nói về điều gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến điều gì để tôi có thể trả lời.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Hãy đặt một câu có từ 'gia đình'.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tôi rất vui mừng khi nghe điều đó. gia đình tôi là những người thân yêu và luôn ủng hộ lẫn nhau trong cuộc sống hàng ngày của chúng ta.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Câu hỏi khác câu kể như thế nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cho tôi biết bạn đang muốn hỏi về chủ đề gì để tôi có thể trả lời.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Danh từ là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "trong tiếng việt, \"danh từ\" thường được sử dụng để chỉ một danh từ hoặc tính từ dùng để miêu tả một người, vật, sự việc, hành động hay trạng thái nào đó. ví dụ: \"anh ấy đang ăn cơm\" có nghĩa là anh ấy rất vui mừng khi nhận được món quà. ngoài ra, trong các ngữ cảnh khác nhau, danh từ cũng có thể mang ý nghĩa tương tự nhưng không hoàn toàn giống nhau.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Động từ là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "\"động từ\" trong tiếng việt có nghĩa là hành động hoặc trạng thái thực hiện một công việc, hoạt động nào đó. nó thường được sử dụng để diễn tả hành động di chuyển, làm cho người khác cảm thấy thoải mái và tự tin hơn khi giao tiếp với người khác. ví dụ: \"cô ấy đang đi bộ trên đường phố.\"",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tính từ là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "từ \"tính từ\" trong tiếng việt thường được sử dụng để miêu tả tính chất, trạng thái hoặc đặc điểm của một sự vật, hiện tượng, hành động hay suy nghĩ. ví dụ: \"cô ấy có khả năng nói chuyện với mọi người xung quanh.\" từ này mang ý nghĩa tích cực và biểu thị sự quan tâm, hứng thú hoặc đam mê sâu sắc đối với một vấn đề nào đó.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Đại từ nhân xưng là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "trong tiếng việt, \"đại từ\" thường được dùng để chỉ một danh từ hoặc tính từ dùng để miêu tả hành động, sự việc, trạng thái hay tính cách của một người. ví dụ: \"anh ta là người rất trung thực và đáng tin cậy.\" có nghĩa là anh ta luôn giữ lời hứa, lòng trung thành và sẵn sàng giúp đỡ người khác khi cần thiết. ngoài ra, trong ngữ cảnh ngôn ngữ học, đại từ cũng mang ý nghĩa tương tự như \"người\".",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Câu ghép là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "\"câu ghép\" trong tiếng việt có nghĩa là một cụm từ hoặc ý tưởng được kết hợp lại với nhau để tạo thành một câu hoàn chỉnh. ví dụ: \"cô bé đang chơi bóng trên sân cỏ.\"",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Dấu câu dùng để làm gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cung cấp thêm thông tin về chủ đề bạn đang nhắc đến. tôi sẽ trả lời bằng một đoạn văn bản đơn giản, ngắn gọn và dễ hiểu nhất có thể.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Từ láy là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "láy là một tính từ trong tiếng việt dùng để miêu tả sự vật, hiện tượng hoặc hành động có cấu trúc, hình dạng hoặc đặc điểm nhất định. \"láy\" thường được sử dụng để mô tả những thứ có kích thước nhỏ hơn so với các loại láy khác, ví dụ như láy của cây cối, lán của người hay láo gỗ. ngoài ra, \"cỏi\" còn mang ý nghĩa về sự gọn gàng, sạch sẽ và tổ chức trong không gian sống hoặc làm việc. tóm lại, láy thể hiện mối quan hệ hài hòa giữa con người và môi trường xung quanh.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Câu cảm thán dùng để làm gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cho tôi biết bạn đang muốn hỏi về chủ đề nào (ví dụ: thể thao, công nghệ, giải trí, v.v.) để tôi có thể trả lời câu hỏi của bạn một cách chi tiết và chính xác nhất.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914308.1296365,
+  "user_id": "vpm8do0f8o7o",
+  "shared": true
+}

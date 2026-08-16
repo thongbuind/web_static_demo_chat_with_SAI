@@ -1,0 +1,79 @@
+{
+  "id": "test_37_ngoai_pham_vi_kien_thuc",
+  "title": "Test nhóm 37_ngoai_pham_vi_kien_thuc (7 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Giá vàng hôm nay là bao nhiêu?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "hiện tại, giá vàng thế giới dao động trong khoảng từ 1.500 đến 2.000 usd/ounce tùy thuộc vào thị trường quốc tế và tình hình kinh tế toàn cầu. để biết chính xác giá vàng hiện tại ở đâu, bạn nên tra cứu trực tiếp trên trang web của các tổ chức tài chính uy tín như ngân hàng trung ương châu âu (ecb) hoặc quỹ tiền tệ quốc tế (imf). thông tin chi tiết về giá vàng có thể thay đổi theo thời gian, vì vậy hãy tham khảo ý kiến của chuyên gia tài chính trước khi đưa ra quyết định cuối cùng.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Hôm nay là ngày mấy?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin lỗi, tôi không thể cung cấp thông tin cụ thể về ngày hôm nay. vui lòng cho tôi biết bạn đang đề cập đến ngày nào để tôi có thể trả lời câu hỏi của bạn một cách chính xác nhất.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Ai vừa thắng trận bóng đá tối qua?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cho tôi biết bạn đang muốn hỏi về trận đấu nào để tôi có thể trả lời.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Thời tiết ngày mai ở Hà Nội thế nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin lỗi, tôi không thể cung cấp thông tin thời tiết cụ thể cho bạn. vui lòng liên hệ với cơ quan khí tượng hoặc trung tâm dự báo thời tiết để biết thông tin chi tiết về thời tiết hiện tại của hà nội.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Đội nào vừa vô địch World Cup gần nhất?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "đội tuyển bóng đá quốc gia pháp đã giành chức vô địch thế giới lần đầu tiên vào năm 1954.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Giá xăng hôm nay là bao nhiêu một lít?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "dựa trên thông tin bạn cung cấp, tôi không thể đưa ra giá bán chính xác cho tất cả các loại xăng dầu. vui lòng kiểm tra trực tiếp trên trang web của nhà sản xuất hoặc liên hệ với đại lý để được tư vấn chi tiết và cập nhật nhất về giá xăng dầu hiện tại.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Bạn có nhớ cuộc trò chuyện của chúng ta hôm qua không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vâng, tôi rất vui khi nghe điều đó. bạn có thể chia sẻ với tôi về những gì đã xảy ra trong ngày hôm nay được không? nếu có bất kỳ câu hỏi nào khác, xin hãy cho tôi biết nhé!",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914945.9700058,
+  "user_id": "hn5qf8499id7",
+  "shared": true
+}

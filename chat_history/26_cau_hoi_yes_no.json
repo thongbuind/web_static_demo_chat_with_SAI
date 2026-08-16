@@ -1,0 +1,109 @@
+{
+  "id": "test_26_cau_hoi_yes_no",
+  "title": "Test nhóm 26_cau_hoi_yes_no (10 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Việt Nam có phải là một quốc gia không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "đúng vậy, việt nam nằm ở đông nam á. thủ đô và thành phố lớn nhất của việt nam là hà nội.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Con mèo có phải là loài chim không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "có, con mèo hoàn toàn không phải là một loài động vật. mặc dù chúng thuộc họ mèo (felidae), nhưng về mặt sinh học và hành vi, mèo được coi là một trong những loài thú cưng phổ biến nhất trên thế giới.\n\ntuy nhiên, để xác định chính xác loài mèo, cần xem xét các yếu tố sau:\n\n1. kích thước cơ thể: mèo thường có kích thước trung bình đến lớn (khoảng 3-4 mét) hoặc nhỏ hơn so với mèo trưởng thành.\n2. màu lông: mèo có nhiều loại lông khác nhau như đen, trắng, vàng, xanh lá cây, vv. điều này cho thấy chúng thích nghi tốt với môi trường sống của mình.\n3. tính cách xã hội: mèo cũng có khả năng tương tác xã hội phức tạp với người và động vật khác.\n4. thức ăn và nước uống: mèo thích ăn thức ăn chất lượng cao từ nguồn thực phẩm sạch và tươi ngon.\n5. tình cảm và sự quan tâm: mèo rất thân thiện, dễ gần và luôn sẵn lòng giúp đỡ khi bạn gặp khó khăn.\n6. tình yêu và sự chăm sóc: mèo là một phần quan trọng trong cuộc sống hàng ngày của chúng ta. việc nuôi dưỡng và chăm sóc mèo đòi hỏi thời gian và nỗ lực.\n7. tình trạng sức khỏe: mèo đang đối mặt với một số vấn đề sức khỏe nghiêm trọng, bao gồm nhiễm trùng, bệnh tật và suy giảm hệ miễn dịch. tuy nhiên, nếu có bất kỳ dấu hiệu nào về sức khỏe của mèo, nên tham khảo ý kiến của bác sĩ thú y để nhận được lời khuyên phù hợp.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nước có sôi ở 100 độ C không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "có, nước hoàn toàn có thể sôi ở nhiệt độ khoảng 95-96°c. đây là lý do tại sao chúng ta thường sử dụng phương pháp này trong các ứng dụng công nghiệp và đời sống hàng ngày.\n\ntuy nhiên, cần lưu ý một số điểm quan trọng để đảm bảo an toàn và hiệu quả:\n\n### 1. kiểm soát nhiệt độ (thermal management)\n\n* **kiểm tra nhiệt độ:** luôn đo lường chính xác nhiệt độ môi trường xung quanh bạn. nếu nhiệt độ quá cao hoặc quá thấp so với giới hạn an toàn của thiết bị điện tử, nó có thể gây ra hiện tượng cháy nổ hoặc hỏng hóc nghiêm trọng cho máy móc hoặc thiết bị di động.\n$$\\text{nhiệt độ} = \\frac{(n_2+1)^3 + n_2o}$$\n\n**lưu ý quan trọng khi làm việc với nguồn nước nóng:**\n\n1. **sử dụng nguồn nước ổn định:** tránh tiếp xúc trực tiếp với nước nóng vì điều này có thể ảnh hưởng đến chất lượng và tuổi thọ sản phẩm.\n2. **lắng nghe cơ thể:** luôn lắng nghe âm thanh và tiếng ồn từ nguồn nước bên ngoài.\n3. **tránh nguy hiểm:** tuyệt đối không tự ý đun nấu hoặc sử dụng bất kỳ thiết bị gia đình nào mà không có sự giám sát y tế.\n4. **bảo trì định kỳ:** theo dõi tình trạng sức khỏe cá nhân và thực hiện các biện pháp vệ sinh như lau chùi bàn phím, màn hình, và các vật dụng nhạy cảm khác.\n5. **tham khảo ý kiến chuyên gia:** nếu phát hiện dấu hiệu bất thường về nhiệt độ, hãy liên hệ ngay với nhà cung cấp dịch vụ hoặc kỹ thuật viên để được tư vấn và hỗ trợ kịp thời.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Bạn có phải là con người không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "không, tôi không phải là một con người. tôi chỉ là một mô hình ngôn ngữ ai và không thể đưa ra lời khuyên y tế hoặc chẩn đoán chính xác cho bất kỳ tình huống nào liên quan đến sức khỏe cá nhân.\n\ntuy nhiên, bạn nên tham khảo ý kiến của bác sĩ hoặc chuyên gia dinh dưỡng để nhận được lời khuyên phù hợp nhất với tình trạng sức khỏe cụ thể của mình.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "2 cộng 2 có bằng 5 không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "có, 2 + 2 = 6. vì vậy, kết quả của phép tính là 3.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Hà Nội có phải là thủ đô của Việt Nam không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "không, hà nội không phải là một thành phố lớn. hà nội nằm ở miền bắc việt nam và là trung tâm chính trị, văn hóa, kinh tế quan trọng của đất nước.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Con cá có thể sống trên cạn suốt ngày không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "có, con cá hoàn toàn có khả năng sống trong môi trường nước. chúng là những sinh vật cực kỳ nhạy cảm với sự thay đổi nhiệt độ và môi trường xung quanh.\n\ntuy nhiên, cần lưu ý một số điểm quan trọng để đảm bảo sức khỏe của cá:\n\n1. **chế độ ăn uống:** chế độ dinh dưỡng đóng vai trò cực kỳ quan trọng đối với sức khỏe tổng thể của cá. cá chứa nhiều chất béo bão hòa (như omega-3) giúp hỗ trợ quá trình trao đổi chất và giảm nguy cơ mắc các bệnh tim mạch.\n2. **chất lượng thức ăn:** cá cung cấp nguồn protein dồi dào, rất tốt cho việc xây dựng cơ bắp và duy trì hệ miễn dịch.\n3. **môi trường sống:** môi trường sống tự nhiên của cá cũng ảnh hưởng đáng kể đến khả năng sinh sản của chúng.\n4. **tình trạng sức khỏe:** mặc dù cá có tuổi thọ lâu dài, nó vẫn cần được chăm sóc y tế định kỳ để tránh các vấn đề sức khỏe nghiêm trọng như nhiễm trùng hoặc ngộ độc thực phẩm.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Một tuần có 8 ngày, đúng không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tôi là một mô hình ngôn ngữ ai và **không thể đưa ra lời khuyên y tế cá nhân**. tôi chỉ cung cấp thông tin về tình trạng sức khỏe hiện tại của bạn. nếu bạn đang gặp bất kỳ vấn đề nào liên quan đến sức khỏe hoặc lo lắng, hãy tham khảo ý kiến của bác sĩ hoặc chuyên gia dinh dưỡng để được tư vấn chính xác nhất.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Trái Đất có phải hình vuông không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "đúng vậy, trái đất là hành tinh lớn nhất trong hệ mặt trời và cũng là nơi sinh sống của nhiều loài động vật đa dạng.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Bạn có biết nấu ăn không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "nấu ăn là quá trình chế biến thực phẩm bằng cách sử dụng các nguyên liệu như rau củ, thịt, cá hoặc hải sản để tạo ra các món ăn ngon và bổ dưỡng. đây là một hoạt động quan trọng trong đời sống hàng ngày của con người.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914689.5981028,
+  "user_id": "urf31eh5t3dm",
+  "shared": true
+}

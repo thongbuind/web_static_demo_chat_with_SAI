@@ -1,0 +1,129 @@
+{
+  "id": "test_18_cam_xuc_tam_ly",
+  "title": "Test nhóm 18_cam_xuc_tam_ly (12 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Làm gì khi cảm thấy lo lắng trước kỳ thi?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "khi gặp lo lắng, bạn có thể thực hiện các biện pháp sau để giảm căng thẳng:\n\n1. **ngủ đủ giấc:** cố gắng ngủ ít nhất 7-8 giờ mỗi đêm để cơ thể phục hồi và tái tạo năng lượng.\n2. **uống nước đầy đủ:** uống nhiều nước trong ngày giúp làm dịu hệ thần kinh và hỗ trợ quá trình trao đổi chất.\n3. **tập thể dục đều đặn:** vận động thường xuyên giúp cải thiện sức khỏe tim mạch và tăng cường sự tập trung.\n4. **ăn uống lành mạnh:** ăn một chế độ ăn cân đối với nhiều rau xanh, trái cây và ngũ cốc nguyên hạt để cung cấp dưỡng chất cần thiết cho não bộ.\n5. **quản lý stress:** học cách quản lý căng thẳng bằng cách sử dụng kỹ thuật thư giãn như yoga hoặc thiền định.\n6. **tìm kiếm hỗ trợ:** nếu cảm giác lo lắng kéo dài, hãy tham khảo ý kiến của bác sĩ hoặc chuyên gia tâm lý để được tư vấn và điều trị phù hợp.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Làm sao để vượt qua nỗi buồn?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "thất vọng là trạng thái cảm xúc tiêu cực mạnh mẽ, thường xuất hiện khi con người trải qua những khoảnh khắc khó khăn, mất mát hoặc thất vọng sâu sắc. đây không phải lúc nào cũng dễ dàng giải quyết mà cần có sự hỗ trợ và động viên từ gia đình, bạn bè hoặc chuyên gia tâm lý. dưới đây là một số cách giúp bạn vượt qua cảm giác này:\n\n---\n\n## i. thực hành chánh niệm (mindfulness)\n\nđây là phương pháp hiệu quả nhất để cải thiện khả năng tập trung và giảm căng thẳng.\n\n1. **ngủ đủ giấc:** cố gắng ngủ ít nhất 7-8 tiếng mỗi đêm để cơ thể được nghỉ ngơi hoàn toàn.\n2. **tập thể dục nhẹ nhàng:** dành thời gian cho các hoạt động thư giãn như đọc sách, nghe nhạc yêu thích, hoặc tham gia vào sở thích cá nhân.\n3. **uống nước đầy đủ:** uống nhiều nước trong ngày để duy trì độ ẩm cho cơ thể.\n4. **quản lý stress:** học cách quản lý stress bằng các kỹ thuật thở sâu, thiền định hoặc viết nhật ký.\n5. **tìm kiếm hỗ trợ:** nếu cảm thấy quá tải, hãy tìm đến bác sĩ tâm thần hoặc nhà tư vấn sức khỏe tâm thần để được tư vấn và điều trị phù hợp.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Khi tức giận nên làm gì để bình tĩnh lại?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "nếu cảm thấy tức giận, bạn có thể thử các phương pháp sau:\n\n1. **nghỉ ngơi và thư giãn:** dành ít nhất một khoảng thời gian ngắn mỗi ngày để nghỉ ngơi và tái tạo năng lượng cho cơ thể. điều này giúp giảm căng thẳng và cải thiện tâm trạng.\n2. **uống đủ nước:** uống nhiều nước trong suốt cả ngày là cách tốt nhất để duy trì sự cân bằng nội tiết tố.\n3. **tập trung vào hơi thở:** hít thở sâu và chậm rãi để làm dịu hệ thần kinh.\n4. **quản lý căng thẳng:** thực hành các kỹ thuật thư giãn như thiền định hoặc tập trung vào hiện tại thay vì lo lắng về tương lai.\n5. **tìm kiếm hỗ trợ:** nếu cảm giác tức giận kéo dài, hãy tìm kiếm sự giúp đỡ từ người thân, bạn bè hoặc chuyên gia tư vấn sức khỏe tâm thần.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Làm sao để tự tin hơn khi nói trước đám đông?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tự tin là một yếu tố quan trọng trong giao tiếp và xây dựng mối quan hệ. dưới đây là một số cách bạn có thể áp dụng:\n\n1. lắng nghe chân thành: hãy lắng nghe người khác một cách chân thành, không gián đoạn hoặc chỉ tập trung vào những gì họ đang nói. điều này giúp tạo ra sự hiểu biết và tôn trọng đối tác.\n\n2. sử dụng ngôn ngữ cơ thể tích cực: hãy chú ý đến cử chỉ, biểu cảm khuôn mặt và giọng điệu của mọi người xung quanh để truyền đạt thông điệp một cách rõ ràng và hiệu quả. tránh sử dụng lời lẽ xúc phạm hoặc gây tổn thương cho người khác.\n\\n3. kết nối với đồng nghiệp và cấp trên: tham gia các hoạt động xã hội và nhóm làm việc cùng nhau để mở rộng mạng lưới liên lạc và tăng cường tương tác giữa các bên liên quan. chia sẻ ý kiến và kinh nghiệm cũng rất quan trọng để xây dựng lòng tin.\\n\\n4. đặt mục tiêu chung: xác định những mục tiêu cụ thể mà bạn muốn đạt được trong cuộc sống cá nhân và công việc hàng ngày. lập kế hoạch sẽ giúp bạn theo dõi tiến trình và đảm bảo rằng mục tiêu đó phù hợp với khả năng và sở thích cá nhân của bạn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Cảm giác cô đơn thì nên chia sẻ với ai?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để cảm thấy cô đơn, điều quan trọng nhất là tìm kiếm sự hỗ trợ từ người thân hoặc chuyên gia tâm lý. hãy dành thời gian cho những hoạt động bạn yêu thích như đọc sách, nghe nhạc, viết nhật ký, hoặc tham gia các khóa học trực tuyến để mở rộng kiến thức và kỹ năng của mình.\n\nhãy tạo ra một môi trường an toàn, nơi mọi người có thể tự do diễn đạt suy nghĩ và cảm xúc của mình mà không bị ràng buộc bởi bất kỳ ranh giới cá nhân nào. nếu cảm thấy quá tải, hãy tìm đến bác sĩ tâm thần hoặc nhà tư vấn sức khỏe tâm thần để được chẩn đoán chính xác và nhận lời khuyên phù hợp.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Làm sao để động viên một người bạn đang buồn?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "một cách hiệu quả là dành thời gian lắng nghe và chia sẻ cảm xúc của họ. hãy thể hiện sự quan tâm, chăm sóc bản thân bằng những hành động nhỏ như đi dạo, đọc sách, hoặc trò chuyện với người thân yêu. điều này giúp giảm bớt căng thẳng và tạo ra không khí tích cực trong cuộc sống hàng ngày. ngoài ra, việc tìm kiếm sự hỗ trợ từ gia đình, bạn bè hoặc chuyên gia cũng có thể mang lại niềm vui và ý nghĩa cho tình bạn của bạn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Vì sao nên bày tỏ cảm xúc thay vì giữ trong lòng?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để bày tỏ sự thay đổi và tôn trọng đối với người khác, bạn có thể thực hiện các bước sau:\n\n1. lắng nghe chân thành: hãy dành thời gian để lắng nghe ý kiến của người khác một cách chân thành và không gián đoạn. điều này giúp xây dựng mối quan hệ tốt hơn và tạo ra một môi trường giao tiếp tích cực giữa mọi người.\n\n2. thể hiện lòng biết ơn: khi gặp gỡ ai đó mới, hãy thể hiện sự trân trọng và ghi nhận những đóng góp của họ vào cuộc sống của họ. tránh sử dụng ngôn ngữ tục tĩu hoặc công kích cá nhân quá mức, vì chúng có thể gây tổn thương cho người khác và làm mất đi sự tin tưởng và tình yêu thương từ phía họ.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Làm sao để kiểm soát cảm xúc tiêu cực?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để quản lý cảm xúc một cách hiệu quả, bạn cần thực hành chánh niệm (mindfulness) và tập trung vào những điều tích cực trong cuộc sống hàng ngày.\n\ntrước hết, hãy đặt ra ranh giới rõ ràng giữa công việc và cuộc sống cá nhân. dành thời gian cho sở thích cá nhân như đọc sách, nghe nhạc, hoặc tham gia các hoạt động giải trí mà bạn yêu thích. quan trọng nhất là tìm kiếm sự hỗ trợ từ người thân, bạn bè hoặc chuyên gia tâm lý nếu cảm thấy quá áp lực hoặc lo lắng về tương lai. đừng cố gắng ép buộc bản thân phải hoàn hảo ngay lập tức.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Khi thất bại nên suy nghĩ như thế nào để tiến bộ hơn?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "thất bại là một phần tự nhiên của quá trình học hỏi và phát triển cá nhân. nó không phải là kết quả cuối cùng, mà là cơ hội để học hỏi từ những sai lầm, cải thiện kỹ năng và mở rộng tầm nhìn. dưới đây là một số cách bạn có thể áp dụng:\n\n1. xác định mục tiêu rõ ràng: đầu tiên, hãy xác định rõ mục tiêu cụ thể mà bạn muốn đạt được trong cuộc sống. điều này giúp bạn tập trung vào những gì quan trọng nhất.\n\n2. xây dựng kế hoạch hành động: tạo ra một kế hoạch chi tiết về các bước cần thực hiện để đạt được mục tiêu đó. chia nhỏ công việc lớn thành các nhiệm vụ nhỏ hơn và thiết lập lịch trình hàng ngày hoặc hàng tuần để theo dõi tiến độ và đảm bảo rằng mọi thứ diễn ra theo kế hoạch đã đề ra trước khi bắt tay vào làm việc.\n\\n3. tìm nguồn cảm hứng: tìm kiếm sự hỗ trợ từ người thân, bạn bè hoặc chuyên gia trong lĩnh vực của bạn. họ có thể cung cấp cho bạn kiến thức mới, ý tưởng sáng tạo và kinh nghiệm thực tế để giúp bạn vượt qua khó khăn.\\n\\n4. học hỏi liên tục: luôn cập nhật kiến thức và kỹ năng của mình thông qua việc đọc sách, tham gia khóa học trực tuyến hoặc tham gia các hoạt động ngoại khoá để nâng cao vốn từ vựng và khả năng tư duy phản biện.\\nhy vọng những gợi ý trên sẽ giúp bạn trở nên mạnh mẽ và linh hoạt hơn trong việc đối mặt với thất bại. chúc may mắn!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Lòng biết ơn có ý nghĩa gì trong cuộc sống?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "trong cuộc sống, lòng biết ơn đóng vai trò vô cùng quan trọng vì nó giúp con người cảm thấy được trân trọng và đánh giá cao những điều tốt đẹp xung quanh. khi chúng ta biết ơn, chúng ta tạo ra sự kết nối sâu sắc hơn giữa bản thân với thế giới bên ngoài, từ đó xây dựng các mối quan hệ mới bền vững và hạnh phúc hơn.\n\nsự biết ơn không chỉ là một hành động đơn thuần mà còn mang lại nhiều lợi ích tâm lý như giảm căng thẳng, cải thiện chất lượng giấc ngủ và tăng cường sức khỏe tinh thần tổng thể của chúng ta. do đó, việc dành thời gian để biết ơn là rất cần thiết để phát triển toàn diện cả về mặt vật chất lẫn tinh thần.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Làm sao để lắng nghe người khác tốt hơn?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để lắng nghe một cách chân thành và hiệu quả, bạn có thể thực hiện các bước sau: đầu tiên, hãy tập trung vào cảm xúc của họ mà không phán xét hay phê phán. hãy đặt mình vào vị trí của họ và cố gắng hiểu rõ những gì họ đang nói. thứ hai, hãy sử dụng ngôn ngữ cơ thể tích cực như mỉm cười hoặc cử chỉ nhẹ nhàng để tạo ra sự kết nối với người khác. cuối cùng, hãy chú ý đến giọng điệu và thái độ của đối phương thay vì chỉ đơn thuần truyền tải thông tin. điều quan trọng là duy trì giao tiếp cởi mở và tôn trọng lẫn nhau trong mọi tình huống. nếu cần thiết, bạn cũng có thể tham khảo ý kiến từ người thân, bạn bè hoặc chuyên gia tư vấn tâm lý để nhận được lời khuyên phù hợp nhất cho trường hợp của mình.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Vì sao sự kiên nhẫn lại quan trọng?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "sự kiên nhẫn là một yếu tố cực kỳ quan trọng vì nó giúp chúng ta vượt qua khó khăn và đạt được mục tiêu trong cuộc sống. khi chúng ta kiên nhẫn, chúng ta có thể đối mặt với thử thách, học hỏi từ sai lầm và phát triển kỹ năng để trở thành phiên bản tốt nhất của chính mình. nói chung, kiên nhẫn không chỉ mang lại lợi ích cá nhân mà còn tạo ra ảnh hưởng tích cực đến môi trường xung quanh chúng ta. bạn nghĩ sao về điều này?",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914462.8933327,
+  "user_id": "50mkqhfv2cc6",
+  "shared": true
+}

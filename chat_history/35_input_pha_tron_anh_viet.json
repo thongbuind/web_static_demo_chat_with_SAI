@@ -1,0 +1,79 @@
+{
+  "id": "test_35_input_pha_tron_anh_viet",
+  "title": "Test nhóm 35_input_pha_tron_anh_viet (7 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "cho tôi hỏi deadline của việc này là khi nào",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cho tôi biết bạn đang làm gì để tôi có thể trả lời.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "meeting ngày mai lúc mấy giờ vậy",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin lỗi, tôi không thể cung cấp thông tin thời gian thực hoặc cập nhật theo yêu cầu của bạn. vui lòng liên hệ trực tiếp với bộ phận chăm sóc khách hàng của chúng tôi để được hỗ trợ cụ thể.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "feedback của bạn về sản phẩm này thế nào",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cho tôi biết tên sản phẩm hoặc dịch vụ mà bạn đang đề cập để tôi có thể cung cấp thông tin chi tiết và chính xác nhất.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "app này có bản free không",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "có, bạn hoàn toàn có thể sử dụng app store để tải về và cài đặt các ứng dụng từ cửa hàng ứng dụng của mình.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "check email giúp tôi xem có gì mới không",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "có, bạn hoàn toàn có thể truy cập vào các trang web và ứng dụng liên quan đến công nghệ để xem thông tin chi tiết về một chủ đề cụ thể. bạn chỉ cần nhập địa chỉ email hoặc số điện thoại của người dùng (ví dụ: example@example.com), sau đó đăng ký tài khoản bằng cách cung cấp thông tin cá nhân như tên, ngày sinh, giới tính, vv. ngoài ra, bạn cũng có thể sử dụng chức năng tìm kiếm trên trang web để tìm hiểu thêm về chủ đề mà bạn quan tâm. tuy nhiên, hãy đảm bảo kiểm tra lại chính sách quyền riêng tư của trang web trước khi chia sẻ thông tin với cộng đồng trực tuyến để tránh vi phạm bản quyền.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "note lại giúp tôi việc này nhé",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vâng, chúc bạn một ngày hiệu quả và vui vẻ.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "cái file này export ra sao vậy",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cung cấp cái file để tôi có thể trả lời.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914906.977321,
+  "user_id": "k0w5zmiga5pq",
+  "shared": true
+}

@@ -1,0 +1,89 @@
+{
+  "id": "test_29_cau_dieu_kien",
+  "title": "Test nhóm 29_cau_dieu_kien (8 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Nếu tôi học chăm chỉ mỗi ngày thì điều gì sẽ xảy ra?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "học chăm chỉ là một quá trình liên tục và đòi hỏi sự kiên nhẫn, tập trung cao độ và khả năng quản lý thời gian hiệu quả. dưới đây là một số yếu tố quan trọng cần xem xét khi bạn bắt đầu:\n\n1. xác định mục tiêu rõ ràng: đặt ra những mục tiêu cụ thể mà bạn muốn đạt được trong cuộc sống hàng ngày của mình. điều này giúp bạn có cái nhìn tổng quan về mục tiêu đó.\n\n2. lập kế hoạch và ưu tiên công việc: xác định các nhiệm vụ quan trọng nhất để hoàn thành trong ngày. tạo lịch làm việc hợp lý với các khoảng thời gian khác nhau (ví dụ: 7-9 giờ sáng) và phân chia công việc theo mức độ ưu tiên. đảm bảo rằng bạn dành đủ thời gian cho các hoạt động quan trọng như đọc sách, nghe nhạc, hoặc thực hiện các bài tập thể dục nhẹ nhàng sau giờ làm việc.\n\\n3. sử dụng kỹ thuật quản lý stress: áp dụng các phương pháp giảm căng thẳng như yoga, thiền định, hoặc kỹ thuật thở sâu để thư giãn cơ thể và tinh thần. hãy tìm hiểu cách xử lý stress một cách tích cực và tìm kiếm hỗ trợ từ người thân, bạn bè hoặc chuyên gia tâm lý nếu cần thiết.\\n\\n4. xây dựng mối quan hệ xã hội tốt: gặp gỡ bạn bè, gia đình hoặc tham gia vào cộng đồng trực tuyến để mở rộng mạng lưới xã hội và kết nối với những người có cùng sở thích. giao tiếp và tương tác với mọi người xung quanh cũng rất quan trọng để duy trì sự gắn kết và tăng cường sức khỏe tinh thần chung của cả hai bên.\\nhy vọng những gợi ý trên sẽ giúp bạn vượt qua khó khăn và phát triển bản thân một cách toàn diện hơn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nếu không có nước thì con người sẽ ra sao?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "nước là nguồn tài nguyên quý giá và vô cùng quan trọng đối với cuộc sống của chúng ta. dưới đây là một số thông tin cơ bản về nước:\n\n1. cung cấp năng lượng: nước đóng vai trò thiết yếu trong mọi hoạt động sinh học, từ tưới tiêu đến nấu ăn. nó giúp duy trì sự cân bằng nước trên trái đất và hỗ trợ quá trình trao đổi chất của các sinh vật khác nhau.\n\n2. điều hòa khí hậu: nước là môi trường lý tưởng cho sự phát triển của thực vật và động vật. nó tạo điều kiện thuận lợi để cây trồng hấp thụ nước hiệu quả hơn so với việc sử dụng hóa thạch. ngoài ra, nước còn chứa nhiều khoáng chất quan trọng như kali, magiê, canxi và các hợp chất hữu cơ cần thiết cho sức khỏe con người và hệ sinh thái tự nhiên.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nếu Trái Đất ngừng quay thì chuyện gì sẽ xảy ra?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cung cấp thêm chi tiết để tôi có thể trả lời chính xác.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nếu tôi bị ốm thì nên làm gì trước tiên?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "khi bạn bị ốm, điều quan trọng nhất là nghỉ ngơi đầy đủ để cơ thể có thời gian phục hồi và tái tạo năng lượng. hãy đảm bảo uống nhiều nước ấm (khoảng 4-6 lít mỗi ngày) để giúp hệ tiêu hóa hoạt động tốt hơn. nếu cảm thấy mệt mỏi hoặc đau đầu kéo dài, hãy tham khảo ý kiến bác sĩ để được chẩn đoán chính xác nguyên nhân và có phương pháp điều trị phù hợp. ngoài ra, duy trì chế độ ăn uống cân bằng và ngủ đủ giấc cũng rất quan trọng trong giai đoạn này.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nếu gặp người lạ hỏi đường thì nên xử lý thế nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "khi gặp một người lạ, bạn có thể thực hiện các bước sau để xử lý tình huống:\n1. giữ bình tĩnh và không hoảng loạn.\n2. đặt câu hỏi hoặc yêu cầu giúp đỡ ngay lập tức nếu cần thiết.\n3. nói chuyện với người đó một cách lịch sự và tôn trọng ý kiến của họ.\n4. tìm hiểu về đối phương bằng cách đọc sách, xem phim hoặc tham gia vào các hoạt động giao tiếp xã hội.\n5. đề nghị hỗ trợ trong trường hợp khẩn cấp hoặc khi bạn cảm thấy quá tải.\n6. ghi lại thông tin quan trọng như thời gian, địa điểm, số điện thoại liên lạc và bất kỳ chi tiết cá nhân nào khác mà bạn muốn chia sẻ.\n7. nếu gặp khó khăn, hãy nhờ sự giúp đỡ từ người thân, bạn bè hoặc chuyên gia tâm lý để được tư vấn và hỗ trợ kịp thời.\nlưu ý rằng việc giải quyết tình huống này đòi hỏi kỹ năng giao tiếp tốt và khả năng lắng nghe tích cực. luôn sẵn lòng lắng nghe và phản hồi một cách chân thành để đảm bảo cuộc trò chuyện diễn ra suôn sẻ.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Giả sử bạn có một triệu đồng, bạn sẽ dùng để làm gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cung cấp số tiền hoặc thông tin cụ thể mà bạn muốn tôi giúp đỡ.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nếu trời đột nhiên có mưa đá thì nên làm gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "khi trời đột ngột xuất hiện mưa đá, điều quan trọng nhất là đảm bảo an toàn cho bản thân và những người xung quanh.\n\ntrước tiên, hãy giữ bình tĩnh và tránh các hoạt động thể chất mạnh như chạy bộ hoặc leo núi để giảm nguy cơ chấn thương. nếu bạn cảm thấy đau đầu dữ dội, hãy dừng lại ngay lập tức và tìm kiếm sự trợ giúp y tế khẩn cấp (như gọi cấp cứu hoặc đến cơ sở y tế gần nhất).\n\nngoài ra, việc theo dõi tình trạng sức khỏe của bản thân cũng rất quan trọng. nếu cơn sốt kéo dài hơn một ngày, hãy tham khảo ý kiến bác sĩ để được chẩn đoán chính xác nguyên nhân và đưa ra phương pháp điều trị phù hợp.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nếu quên mang theo tiền khi đi mua đồ thì nên làm sao?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "khi bạn quên mang tiền, điều quan trọng nhất là đảm bảo an toàn tài chính cá nhân của mình. hãy luôn kiểm tra xem có bất kỳ khoản phí nào phát sinh từ việc sử dụng thẻ tín dụng hoặc các dịch vụ thanh toán không cần thiết khác.\n\ntrước tiên, hãy tìm kiếm sự giúp đỡ từ người thân, bạn bè hoặc chuyên gia để nhận được lời khuyên và hỗ trợ kịp thời. sau đó, hãy liên hệ với ngân hàng hoặc tổ chức tài chính địa phương để báo cáo tình hình tài chính của bạn một cách chi tiết và cập nhật nhất. việc này sẽ giúp bạn quản lý tài chính hiệu quả hơn và tránh những rắc rối không mong muốn xảy ra trong tương lai.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914789.4991753,
+  "user_id": "w1f7r657yz84",
+  "shared": true
+}

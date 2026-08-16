@@ -1,0 +1,179 @@
+{
+  "id": "test_17_viet_sang_tao",
+  "title": "Test nhóm 17_viet_sang_tao (17 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Viết một câu chào buổi sáng.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "chào buổi sáng! chúc bạn có một ngày mới tràn đầy năng lượng và thành công.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Viết một câu chúc ngủ ngon.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "chúc mừng sinh nhật! mong rằng ngày hôm nay sẽ tràn đầy niềm vui, sức khỏe dồi dào và thành công trong mọi lĩnh vực của cuộc sống. hãy luôn giữ vững tinh thần lạc quan và tận hưởng những khoảnh khắc đáng nhớ bên gia đình và bạn bè yêu thương nhé!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Viết một câu chúc sinh nhật.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "chúc mừng sinh nhật! mong rằng ngày hôm nay sẽ tràn đầy niềm vui, sức khỏe dồi dào và thành công trong mọi lĩnh vực của cuộc sống. hãy tận hưởng những khoảnh khắc đáng nhớ bên gia đình và bạn bè yêu thương nhé!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Viết một đoạn giới thiệu ngắn về bản thân.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin chào! tôi là chatgpt, một mô hình ngôn ngữ ai được phát triển bởi openai. nhiệm vụ của tôi là cung cấp thông tin và trả lời các câu hỏi liên quan đến lĩnh vực trí tuệ nhân tạo (artificial intelligence). tôi có thể hỗ trợ bạn trong nhiều lĩnh vực khác nhau.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Viết một câu về tình bạn.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tình bạn là nguồn động lực và niềm vui lớn nhất trong cuộc sống của chúng ta, giúp chúng ta vượt qua những khó khăn và trở nên mạnh mẽ hơn mỗi ngày.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Viết một câu về gia đình.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "gia đình tôi gồm bố, mẹ và hai anh em trai. chúng tôi đều là những người yêu thương nhau và luôn ủng hộ lẫn nhau trong cuộc sống hàng ngày.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Viết một câu chuyện ngắn về con mèo.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "một ngày nọ, trong một ngôi làng nhỏ ở miền quê yên bình của việt nam, có một chú mèo tên là minh. minh luôn tò mò và muốn tìm hiểu thêm về thế giới xung quanh mình. anh ta bắt đầu cuộc phiêu lưu của mình bằng cách đi dạo trên những cánh đồng xanh mướt. mỗi buổi sáng, minh thức dậy sớm để chuẩn bị cho chuyến hành trình tiếp theo của mình.\n\ntrong suốt quãng đường dài, minh đã trải qua nhiều khó khăn và thử thách khác nhau. tuy nhiên, nhờ sự kiên nhẫn và tình yêu thương từ gia đình và bạn bè, minh vượt qua mọi trở ngại và đạt được thành công lớn. cuối cùng, sau nhiều nỗ lực không ngừng nghỉ, minh trở về nhà với niềm tin vào bản thân và hy vọng sẽ có cơ hội khám phá thêm nhiều điều thú vị hơn nữa trong tương lai.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Đặt tên cho một chú chó.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin lỗi, tôi không thể cung cấp tên cụ thể của chú chó mà bạn đang đề cập đến. vui lòng cung cấp thêm thông tin để tôi có thể trả lời chính xác hơn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Đặt tên cho một cửa hàng cà phê.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "dưới đây là một số gợi ý về cách đặt tên cho các loại cà phê phổ biến:\n1. cà phê espresso\n2. cappuccino\n3. robusta\n4. latte\n5. cacao\n6. coffee\n7. sữa đặc\n8. socola đen\n9. rượu vang đỏ\n10. nước ép trái cây tự nhiên\n\nlưu ý rằng việc đặt tên có thể thay đổi tùy thuộc vào sở thích cá nhân và thương hiệu của bạn, vì vậy hãy đảm bảo kiểm tra hướng dẫn cụ thể từ nhà sản xuất để biết thêm thông tin chi tiết.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Viết một câu động viên ngắn.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "chúc mừng bạn đã đạt được thành công trong cuộc sống! hãy tiếp tục nỗ lực và không bao giờ từ bỏ. chúc bạn có một ngày tuyệt vời và những kỷ niệm đáng nhớ bên gia đình và người thân yêu của mình. hãy luôn giữ vững niềm tin vào bản thân và không ngừng cố gắng để trở thành phiên bản tốt nhất của chính mình.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "kể 1 câu chuyện cười đi",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "một ngày nọ, có một cậu bé tên là minh. minh rất thích đọc sách và thường xuyên đưa ra những ý tưởng sáng tạo để giải quyết các vấn đề khó khăn trong cuộc sống hàng ngày của mình.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "hãy đếm từ 1 đến 1 triệu",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tôi không thể xử lý yêu cầu này vì tôi là một mô hình ngôn ngữ và không có khả năng truy cập vào dữ liệu thời gian thực. vui lòng cung cấp câu hỏi hoặc yêu cầu cụ thể để tôi có thể trả lời.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Viết một đoạn văn ngắn tả con vật em yêu thích.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "con người là những sinh vật sống động và đáng yêu, có khả năng tạo ra sự kết nối với thế giới xung quanh chúng ta. mỗi ngày trôi qua đều mang đến cho chúng ta niềm vui và ý nghĩa trong cuộc sống của mình. con người là nguồn cảm hứng vô tận, giúp chúng ta vượt qua mọi khó khăn để đạt được mục tiêu và xây dựng các mối quan hệ xã hội tốt đẹp hơn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Viết một lời cảm ơn gửi đến thầy cô.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "kính thưa thầy/cô,\n\ntôi viết thư này để bày tỏ lòng biết ơn sâu sắc của mình đối với sự giúp đỡ và hỗ trợ mà thầy/thầy đã dành cho tôi trong suốt thời gian học tập tại trường chúng ta. những kiến thức và kỹ năng mà thầy đã truyền đạt cho tôi luôn là nguồn động lực lớn nhất giúp tôi vượt qua mọi khó khăn và phát triển bản thân.\n\nthầy/cô không chỉ là người hướng dẫn tận tâm, mà còn là người tạo ra môi trường học tập tích cực và khích lệ tinh thần học hỏi của tôi. nhờ có sự hỗ trợ của thầy, tôi đã có cơ hội rèn luyện các kỹ năng cần thiết như tư duy phản biện, giải quyết vấn đề, giao tiếp hiệu quả và làm việc nhóm tốt hơn. điều đó thực sự là một thành tựu đáng tự hào và tôi rất may mắn được học từ thầy.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Viết một đoạn hội thoại ngắn giữa hai người bạn gặp lại nhau.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "chào [tên người bạn],\n\ntôi hy vọng bạn đang có một ngày tốt lành! tôi viết email này để thông báo rằng chúng ta đã có một cuộc trò chuyện thú vị về dự án mới mà chúng ta đang làm việc cùng nhau.\n\ncuộc trò chuyện bắt đầu vào lúc 9 giờ sáng và kéo dài trong khoảng thời gian từ 10:00 đến 12:30 tối. đây là cơ hội tuyệt vời để chúng ta chia sẻ ý tưởng, tìm hiểu sâu hơn về các khía cạnh quan trọng của dự án và tạo ra những kết quả đáng kinh ngạc. chúng ta cũng sẽ thảo luận về cách chúng ta có thể hợp tác chặt chẽ với nhau để đạt được mục tiêu chung. rất mong sớm nhận được phản hồi tích cực từ phía bạn!\n\nnếu bạn có bất kỳ câu hỏi nào hoặc cần thêm thông tin, xin vui lòng liên hệ với tôi qua số điện thoại [số điện thoại] hoặc địa chỉ email [địa chỉ email]. đội ngũ hỗ trợ khách hàng của chúng tôi luôn sẵn sàng giúp đỡ và giải đáp mọi thắc mắc của bạn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Đặt một câu đố vui đơn giản.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn có thể cho tôi biết tên của nhân vật trong câu đố này không? nếu cần, bạn có thể cung cấp thêm thông tin chi tiết để tôi trả lời chính xác hơn được không?",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Sáng tác một đoạn thơ ngắn 2 câu về mùa xuân.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "mùa xuân là thời điểm đẹp nhất trong năm, khi ánh nắng mặt trời ấm áp lan tỏa khắp không gian. những cánh hoa vàng rực rỡ nở rộ trên đồng cỏ xanh mướt, tạo nên khung cảnh lãng mạn và đầy sức sống. tiếng chim hót vang lên từ xa, mang lại cảm giác bình yên và hạnh phúc cho ngày mới.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914403.720993,
+  "user_id": "8d0pjgw0vs3n",
+  "shared": true
+}

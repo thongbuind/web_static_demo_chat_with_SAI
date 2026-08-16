@@ -1,0 +1,189 @@
+{
+  "id": "test_07_an_uong_nau_an",
+  "title": "Test nhóm 07_an_uong_nau_an (18 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Hướng dẫn tôi cách nấu cháo gà.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để nấu một bát cháo gà ngon, bạn chuẩn bị gạo tẻ khoảng 1 chén, thịt gà (nên chọn phần ức hoặc đùi), hành lá, gừng tươi, muối và tiêu; đầu tiên vo sạch gạo rồi ninh với nước dùng gà cho đến khi hạt gạo nở mềm thành cháo sánh mịn; trong lúc đó, luộc gà cùng vài lát gừng để khử mùi hôi, sau khi gà chín thì vớt ra xé nhỏ hoặc thái miếng vừa ăn; khi cháo đã nhừ, cho thịt gà vào khuấy đều, nêm nếm gia vị gồm muối, tiêu, có thể thêm chút dầu mè để tăng hương vị; cuối cùng rắc hành lá thái nhỏ lên trên và thưởng thức khi còn nóng để cảm nhận trọn vẹn hương vị thơm ngon của cháo gà tự làm tại nhà. chúc bạn thành công!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Cách luộc trứng như thế nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để luộc trứng, bạn có thể làm theo các bước sau:\n\n1. chuẩn bị nguyên liệu và dụng cụ cần thiết.\n2. rửa sạch trứng bằng nước lạnh để loại bỏ bụi bẩn và vi khuẩn tích tụ trên bề mặt.\n3. đun nước sôi trong một nồi lớn cho đến khi nước đạt đến nhiệt độ phù hợp (thường là khoảng 90-95°c).\n4. đặt trứng vào nồi và nấu chín ở lửa nhỏ trong khoảng 6-8 giờ hoặc qua đêm.\n5. khi trứng đã chín, tắt bếp và để nguội hoàn toàn trước khi thưởng thức.\n\nlưu ý rằng thời gian luộc trứng có thể thay đổi tùy thuộc vào loại trứng và điều kiện môi trường. hãy kiểm tra hướng dẫn cụ thể của nhà sản xuất để biết thêm thông tin chi tiết về cách luộc trứng.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Cơm được nấu từ gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xôi là một món ăn truyền thống của việt nam, đặc biệt phổ biến ở miền bắc. cơm được làm từ gạo nếp (gạo nếp), nước cốt dừa và thịt heo hoặc gà xé phay, thường ăn kèm với các loại rau sống như xà lách, húng quế, ngò gai. xôi không chỉ ngon miệng mà còn mang đậm bản sắc văn hóa ẩm thực phong phú của người dân nơi đây.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Làm trứng chiên như thế nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để làm trứng chiên, bạn cần chuẩn bị các nguyên liệu sau: 1 quả trứng gà (khoảng 200g), 3-4 muỗng canh dầu ăn, 2-3 tép tỏi băm nhuyễn, muối và tiêu theo khẩu vị. đầu tiên, đánh tan trứng trong một tô nhỏ rồi cho vào chảo nóng với lửa vừa đến khi lòng đỏ chín mềm nhưng vẫn giữ được độ ẩm bên trong. tiếp theo, thêm dầu ăn vào chảo và đun nóng trên lửa lớn khoảng 5-7 phút mỗi mặt cho đến khi vàng đều hai mặt. sau đó, đổ hỗn hợp này ra đĩa và để nguội hoàn toàn trước khi thưởng thức. cuối cùng, rắc chút hành lá thái nhỏ lên trên và có thể trang trí bằng rau mùi hoặc ớt tươi nếu thích. đây là cách đơn giản giúp bạn có món trứng chiên thơm ngon, hấp dẫn ngay tại nhà.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Cách nấu mì đơn giản?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để nấu mì, bạn cần chuẩn bị các nguyên liệu cơ bản như mì ý (spaghetti hoặc fettuccine), nước sốt cà chua, tỏi băm, hành tây, gia vị như muối và tiêu; đầu tiên, luộc mì trong nước sôi có chút muối khoảng 8-10 phút cho đến khi mì chín mềm nhưng vẫn giữ được độ dai (al dente), sau đó vớt ra để ráo; tiếp theo, phi thơm tỏi với dầu ô liu, cho thịt bò xay vào xào săn rồi thêm cà chua nghiền, nêm nếm gia vị gồm muối, đường, tiêu và một ít lá húng quế để tăng hương vị; cuối cùng, trộn mì đã luộc với sốt, rắc phô mai parmesan lên trên và thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị đặc trưng của món ăn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Muốn nấu canh cần chuẩn bị gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để nấu canh ngon, bạn nên chuẩn bị các nguyên liệu chính như xương bò hoặc gà để ninh nước dùng trong khoảng 4-6 tiếng; thịt bò thái lát mỏng (nên chọn phần bắp hoặc gầu), hành lá, rau mùi và gia vị như muối, đường, nước mắm cho vừa ăn. trước tiên, rửa sạch xương rồi chần qua nước sôi để loại bỏ tạp chất, sau đó hầm xương với sả đập dập, gừng nướng và một ít dầu ăn trong nồi lớn khoảng 2-3 giờ để lấy nước dùng ngọt thanh. khi nước dùng đã ngọt, nêm nếm lại gia vị sao cho vừa miệng, có thể thêm chút ớt nếu thích cay. cuối cùng, bày bún tươi ra tô, xếp thịt lên trên, chan nước dùng nóng hổi, rắc thêm hành phi, rau thơm và thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị đặc trưng của món canh truyền thống việt nam. chúc bạn thành công!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Rau có cần rửa trước khi nấu không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "có, bạn hoàn toàn có thể làm sạch rau sau khi nấu. việc này giúp loại bỏ bụi bẩn và vi khuẩn tích tụ trên bề mặt thực phẩm một cách hiệu quả.\n\ntrước tiên, hãy rửa sạch rau bằng nước ấm để loại bỏ bất kỳ cặn bẩn nào còn sót lại. sau đó, sử dụng khăn ẩm hoặc chất tẩy rửa nhẹ nhàng lau sạch các vết bẩn cứng đầu. điều quan trọng nhất là đảm bảo rau được rửa sạch hoàn toàn trước khi chế biến để ngăn chặn sự phát triển của vi khuẩn gây hại. luôn tuân thủ hướng dẫn cụ thể từ nhà sản xuất để đảm bảo an toàn vệ sinh thực phẩm.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Cách làm một chiếc bánh sandwich?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "đây là cách bạn có thể tạo ra một chiếc burger ngon tại nhà:\n1. chuẩn bị các nguyên liệu sau: thịt bò xay, rau xà lách, cà chua, hành tây, sốt mayonnaise và gia vị như muối, tiêu.\n2. nướng hoặc chiên thịt bò cho đến khi chín và vàng đều hai mặt.\n3. xếp lớp bánh mì dưới, đặt lát phô mai lên trên để tan chảy.\n4. thêm các thành phần khác theo sở thích cá nhân như xúc xích, thịt xông khói, rau sống và nước sốt yêu thích của bạn.\n5. nếu muốn, bạn cũng có thể thêm các loại gia vị bổ sung như tỏi băm nhỏ, ớt bột hoặc mù tạt tùy khẩu vị.\n6. đặt miếng bánh mì còn lại lên trên và nhẹ nhàng ấn chặt để kết hợp với nhau.\n7. đậy nắp bánh mì lại và thưởng thức ngay lập tức!\n\nlưu ý rằng quy trình này chỉ mang tính chất tham khảo và có thể thay đổi tùy thuộc vào công thức cụ thể mà bạn sử dụng. hãy đảm bảo tuân thủ hướng dẫn cụ thể từ nhà sản xuất để đạt được kết quả tốt nhất.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Cách luộc rau đơn giản?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để luộc rau, bạn có thể làm theo các bước sau:\n1. rửa sạch rau bằng nước lạnh để loại bỏ bụi bẩn và vi khuẩn tích tụ trên bề mặt.\n2. cho rau vào nồi nước sôi khoảng 5-7 phút hoặc đến khi rau chín mềm nhưng vẫn giữ được độ tươi ngon.\n3. thêm một chút muối và hạt nêm theo khẩu vị của bạn.\n4. đậy nắp nồi và nấu trong khoảng 20-30 phút để rau chín đều và hấp thụ hương vị tốt hơn.\n5. tắt bếp và để rau nguội tự nhiên trước khi thưởng thức.\nlưu ý rằng thời gian luộc rau có thể thay đổi tùy thuộc vào loại rau và điều kiện nhiệt độ. hãy kiểm tra hướng dẫn cụ thể từ nhà sản xuất nếu cần thiết để đảm bảo an toàn thực phẩm.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Muốn nấu cơm cần làm gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để nấu cơm, bạn có thể tuân theo các bước sau:\n\n1. chuẩn bị nguyên liệu và dụng cụ cần thiết như gạo, thịt, rau củ, gia vị (muối, hạt nêm), nước mắm, đường, muối và dầu ăn.\n2. rửa sạch gạo bằng nước lạnh để loại bỏ bụi bẩn và tạp chất trên bề mặt.\n3. trộn gạo với một chút muối và tiêu trong một tô lớn cho đến khi hỗn hợp trở nên mịn màng và đồng nhất.\n4. thêm gia vị vào gạo theo khẩu vị của bạn, bao gồm tỏi băm nhuyễn, hành lá cắt nhỏ, gừng thái sợi, muối, tiêu và một ít nước mắm. khuấy đều tất cả các thành phần lại với nhau.\n5. đậy nắp nồi lên và đun sôi khoảng 20-30 phút. sau đó, tắt bếp và để cơm nguội tự nhiên trước khi thưởng thức.\n6. dọn ra đĩa và trang trí bằng hành phi hoặc ớt tươi nếu muốn.\n\nlưu ý rằng quá trình nấu cơm có thể thay đổi tùy thuộc vào công thức và phong cách riêng của mỗi người. hãy thử nghiệm và điều chỉnh gia vị theo sở thích cá nhân để tạo ra món cơm ngon và hấp dẫn hơn. chúc bạn thực hiện thành công!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Bánh chưng thường xuất hiện vào dịp nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vào dịp tết nguyên đán, bánh chưng là món ăn truyền thống không thể thiếu trong mâm cỗ của người việt.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Phở là món ăn nổi tiếng của nước nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "việt nam, một quốc gia nằm ở đông nam á, có nền ẩm thực phong phú và đa dạng. dưới đây là danh sách các món phở phổ biến tại việt nam:\n\n1. phở bò:\n- nguyên liệu: thịt bò (thường là bắp hoặc gầu), bánh phở, hành tây, rau thơm, gia vị như muối, đường, nước mắm, tiêu.\n- cách chế biến: rửa sạch thịt bò rồi thái thành từng lát mỏng. chuẩn bị nước dùng bằng cách hầm xương trong nhiều giờ với gừng nướng, quế, hồi, thảo quả để tạo hương thơm đặc trưng cho nước dùng.\n\n2. phở gà:",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Làm sao để bảo quản thực phẩm tươi lâu hơn?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để đảm bảo an toàn vệ sinh thực phẩm, bạn cần lưu ý một số điều quan trọng. trước hết, hãy giữ thực phẩm ở nơi khô ráo, thoáng mát và tránh tiếp xúc trực tiếp với ánh nắng mặt trời trực tiếp trong thời gian dài, vì nhiệt độ cao có thể gây hại cho sức khỏe nếu không được xử lý đúng cách.\n\nthứ hai, luôn kiểm tra nhãn mác sản phẩm trước khi sử dụng để phát hiện các dấu hiệu nhiễm khuẩn hoặc ký sinh trùng. thứ ba, hạn chế ăn những thực phẩm dễ hỏng như rau củ quả chưa chín kỹ, đồ chiên rán nhiều dầu mỡ. cuối cùng, thường xuyên rửa sạch thực phẩm bằng nước ấm và xà phòng để loại bỏ bụi bẩn và vi khuẩn tích tụ trên bề mặt thực phẩm. việc này giúp ngăn chặn sự lây lan của mầm bệnh từ thực phẩm sang người tiêu dùng.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Vì sao không nên ăn thực phẩm đã ôi thiu?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "việc tiêu thụ thực phẩm quá nhiều có thể gây ra các vấn đề sức khỏe nghiêm trọng. về mặt dinh dưỡng, việc tiêu thụ quá nhiều thức ăn chứa nhiều chất béo bão hòa và đường làm tăng nguy cơ mắc bệnh tim mạch, tiểu đường loại 2 và một số loại ung thư.\n\nngoài ra, chế độ ăn uống thiếu cân bằng còn ảnh hưởng đến khả năng hấp thu dinh dưỡng của cơ thể, dẫn đến cảm giác no lâu hơn và khó kiểm soát lượng calo nạp vào. để giảm thiểu tác động này, bạn cần chú ý đến lối sống lành mạnh như tập thể dục đều đặn, ngủ đủ giấc (7-9 tiếng mỗi đêm) và quản lý căng thẳng hiệu quả.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Cách pha một chén nước chấm cơ bản như thế nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để pha cà phê, bạn có thể làm theo các bước sau:\n1. chuẩn bị nguyên liệu và dụng cụ cần thiết bao gồm cà phê rang xay, đường, sữa tươi hoặc sữa đặc tùy khẩu vị.\n2. đun nước sôi trong nồi lớn cho đến khi nước sôi.\n3. thêm đường vào nước sôi và khuấy đều để đảm bảo đường tan hoàn toàn.\n4. đổ nước sôi từ từ vào nồi chứa cà phê. đợi khoảng 5-7 phút để cà phê hòa quyện với nhau.\n5. tắt bếp và chờ cà phê nhỏ giọt xuống cốc.\n6. khi cà phê đã nhỏ giọt hết, lấy ra khỏi cốc và thưởng thức ngay lập tức.\nlưu ý rằng quy trình này chỉ là một hướng dẫn tổng quát và có thể thay đổi tùy thuộc vào loại cà phê và sở thích cá nhân.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Gợi ý một món chay đơn giản dễ nấu.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "dưới đây là một gợi ý món ăn chay ngon và dễ làm:\n\nnguyên liệu cần chuẩn bị:\n- rau sống (rau diếp, cải bắp, cà chua)\n- đậu hũ non\n- hành lá\n- tỏi băm nhuyễn\n- dầu ăn\n- gia vị (muối, tiêu, nước mắm)\n\ncách thực hiện:\n1. rửa sạch rau sống và cắt nhỏ theo kích thước mong muốn.\n2. đun nóng một chút dầu ăn trong nồi lớn. thêm tỏi băm vào chảo và xào cho đến khi thơm.\n3. tiếp theo, thêm rau sống đã thái nhỏ vào nồi và trộn đều với các nguyên liệu khác.\n4. nêm muối, tiêu và nước mắm theo khẩu vị của bạn.\n5. khi tất cả các thành phần được kết hợp đều nhau, tắt bếp và trình bày món chay trên đĩa.\n6. trang trí bằng hành lá và ớt tươi để tăng hương vị.\n7. thưởng thức món chay ngon lành!\n\nchúc bạn có bữa ăn thật ngon miệng!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Cách nấu chè đậu xanh cơ bản?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "chè đậu xanh là một món ăn truyền thống nổi tiếng của việt nam, được làm từ đậu xanh xay nhuyễn cùng với nước cốt dừa và đường. nguyên liệu chính bao gồm đậu xanh tươi (khoảng 50-60g), sữa đặc có đường hoặc sữa chua không đường để tạo vị ngọt tự nhiên cho món ăn này.\n\nđể chuẩn bị đậu xanh, bạn cần ngâm đậu xanh trong nước ấm khoảng 30 phút trước khi chế biến. sau đó, đun sôi hỗn hợp này với sữa đặc, khuấy đều cho đến khi các thành phần hòa quyện hoàn toàn. đậu xanh thường được dùng kèm với cơm trắng hoặc bánh mì để tăng thêm hương vị và dinh dưỡng. đây là cách đơn giản nhưng rất ngon miệng để thưởng thức vào những ngày hè nóng bức.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Kể tên vài món ăn vặt phổ biến ở Việt Nam.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "dưới đây là một số gợi ý về những món ăn nhẹ và ngon miệng mà bạn có thể thử:\n\n1. bánh mì sandwich thịt bò nướng với rau xà lách, cà chua, dưa leo và sốt mayonnaise.\n2. gỏi cuốn tôm thịt với các loại rau sống như rau diếp cá, húng quế và giá đỗ.\n3. bún chả hà nội với nem rán giòn rụm và nước mắm pha chua ngọt.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786913927.5991712,
+  "user_id": "tql7lz9aha0o",
+  "shared": true
+}

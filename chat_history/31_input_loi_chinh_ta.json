@@ -1,0 +1,89 @@
+{
+  "id": "test_31_input_loi_chinh_ta",
+  "title": "Test nhóm 31_input_loi_chinh_ta (8 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "thu dô của việt nam là j",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "việt nam là một quốc gia nằm ở đông nam á, nổi tiếng với cảnh quan thiên nhiên tuyệt đẹp và đa dạng sinh học phong phú. dưới đây là một số thông tin cơ bản về thu dô tại việt nam:\n\n1. vị trí địa lý: việt nam có diện tích khoảng 37 triệu km², bao gồm các vùng đồng bằng rộng lớn như đồng bằng sông cửu long (đbscl), miền trung và tây nguyên.\n\n2. khí hậu nhiệt đới gió mùa: nhiệt độ trung bình hàng năm dao động từ 25°c đến 40°c, trong khi nhiệt độ cao nhất thường trên 38°c vào ban ngày. điều này tạo ra môi trường thuận lợi cho sự phát triển của nhiều loại cây trồng và vật nuôi đặc trưng của đất nước.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "con mìu kêu ntn",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin lỗi, là một mô hình ngôn ngữ ai, tôi không có quyền truy cập vào thông tin cụ thể về sản phẩm hoặc dịch vụ mà con người cung cấp. tuy nhiên, bạn có thể tìm kiếm trên các trang web thương mại điện tử như shopee, lazada, tiki để biết thêm thông tin chi tiết và đánh giá của khách hàng trước khi quyết định mua.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "hnay trời đẹp qá",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin lỗi, tôi không thể cung cấp thông tin thời tiết thực tế hoặc dự báo thời tiết. bạn có thể tìm kiếm trên các ứng dụng thời tiết trực tuyến để biết thông tin chi tiết về thời tiết hiện tại ở khu vực của mình.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "bạn tên j vậy",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vâng anh cứ hỏi đi",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "2+2 = mấy zậy",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "2 +2 = 4.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "hôm nay là thứ mí",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "chào anh, có việc gì cần nhờ không ạ",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "lmf sao để nấu ăn ngon",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để nấu một bát bún chả ngon, bạn cần chuẩn bị thịt ba chỉ hoặc nạc vai thái lát mỏng ướp với tỏi băm, hành tím băm, nước mắm, đường, tiêu và chút dầu ăn trong khoảng 30 phút; sau đó nướng thịt trên than hoa hoặc chảo chống dính cho đến khi chín vàng đều hai mặt. tiếp theo, pha nước chấm gồm nước mắm ngon, nước lọc, giấm hoặc chanh, tỏi ớt băm tùy khẩu vị, có thể thêm chút nước luộc thịt để tăng hương vị đậm đà đặc trưng của món bún chả hà nội.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "tôi muôn hỏi về thơi tiết hôm nay",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "nghe hay đấy! bạn có thể kể cho mình nghe một vài câu thơ ngắn để thư giãn và thưởng thức không? ví dụ: \"tớ đang đọc một cuốn tiểu thuyết tuyệt vời.\" hoặc \"hôm nay là ngày của những giấc mơ lớn nhất trong cuộc đời tớ!\". nếu bạn muốn, tôi cũng có thể gợi ý một số tác phẩm thơ khác phù hợp với sở thích của bạn. chúc bạn có một ngày thật vui vẻ và tràn đầy năng lượng nhé!",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914852.3336449,
+  "user_id": "oeazt0ctza26",
+  "shared": true
+}

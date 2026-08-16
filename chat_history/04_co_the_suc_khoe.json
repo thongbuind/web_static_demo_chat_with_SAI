@@ -1,0 +1,149 @@
+{
+  "id": "test_04_co_the_suc_khoe",
+  "title": "Test nhóm 04_co_the_suc_khoe (14 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Con người có bao nhiêu mắt?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "không có con số chính xác tuyệt đối về con người. tuy nhiên, các nhà khoa học đã phát hiện ra rằng mắt của chúng ta là một phần quan trọng của hệ thần kinh trung ương (cns).",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tim có chức năng gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tim là cơ quan lớn nhất trong hệ tuần hoàn, chịu trách nhiệm vận chuyển oxy và dưỡng chất đến các mô. chức năng chính của tim là bơm máu đi khắp cơ thể để cung cấp oxy cho các hoạt động sống hàng ngày. ngoài ra, tim còn tham gia vào quá trình trao đổi khí, giúp điều hòa nhiệt độ cơ thể và duy trì sự cân bằng nội môi.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Con người dùng cơ quan nào để hô hấp?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "hệ thống hô hấp của con người chủ yếu được thiết kế để thực hiện các chức năng sinh lý phức tạp.\n\ncác cơ quan chính bao gồm phổi, tim và hệ thần kinh trung ương (cns). chúng đóng vai trò là bộ lọc tự nhiên giúp loại bỏ bụi bẩn, vi khuẩn, virus và các chất gây dị ứng từ môi trường xung quanh. ngoài ra, nó còn tham gia vào việc điều chỉnh nhiệt độ cơ thể thông qua quá trình trao đổi khí. tóm lại, con người sử dụng cơ quan hô hấp để duy trì sự sống và hỗ trợ các hoạt động hàng ngày một cách hiệu quả nhất.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Vì sao chúng ta cần uống nước?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "nước đóng vai trò vô cùng quan trọng trong cuộc sống hàng ngày của chúng ta. nó là nguồn cung cấp năng lượng cho cơ thể, giúp duy trì các chức năng sinh học và cân bằng nhiệt độ cơ thể. ngoài ra, nước còn giúp điều hòa nhiệt độ môi trường xung quanh, hỗ trợ quá trình trao đổi chất và tăng cường sức khỏe tổng thể. bạn có muốn uống nước không?",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tại sao cần đánh răng mỗi ngày?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "đánh răng hàng ngày giúp loại bỏ mảng bám và vi khuẩn tích tụ trên bề mặt răng, ngăn ngừa sâu răng và các vấn đề về nướu.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tại sao cần ngủ đủ giấc?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "giấc ngủ đóng vai trò cực kỳ quan trọng đối với sức khỏe thể chất và tinh thần của con người. thiếu ngủ có thể gây ra nhiều vấn đề sức khỏe nghiêm trọng như béo phì, tiểu đường loại 2, cao huyết áp và các bệnh mãn tính khác.\n\nngoài ra, việc thiếu ngủ kéo dài còn ảnh hưởng đến khả năng tập trung, trí nhớ và sự tỉnh táo của cơ thể. để duy trì một lối sống lành mạnh, hãy đảm bảo bạn có thời gian nghỉ ngơi đầy đủ, ăn uống cân bằng và thực hiện các hoạt động thư giãn phù hợp. điều này giúp cải thiện chất lượng cuộc sống tổng thể và giảm nguy cơ mắc các bệnh lý liên quan đến giấc ngủ.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tập thể dục có lợi ích gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "việc tập thể dục mang lại nhiều lợi ích quan trọng cho sức khỏe và tinh thần của chúng ta. dưới đây là một số lợi ích chính:\n\n1. cải thiện sức khỏe tim mạch: tập luyện đều đặn giúp tăng cường tuần hoàn máu, giảm nguy cơ mắc các bệnh tim mạch như đau thắt ngực, đột quỵ và nhồi máu cơ tim.\n2. giảm cân và duy trì vóc dáng: hoạt động thể chất giúp đốt cháy calo, giảm mỡ thừa và cải thiện hình dáng cơ thể.\n3. nâng cao tâm trạng và giảm căng thẳng: việc vận động thường xuyên giúp giải tỏa căng thẳng, kích thích sản xuất hormone endorphin, từ đó làm giảm cảm giác mệt mỏi và lo âu.\n4. tăng cường hệ miễn dịch: việc tham gia vào các lớp thể dục như yoga hoặc pilates giúp cải thiện sự linh hoạt, giảm viêm nhiễm và cung cấp dưỡng chất cần thiết để chống lại các tác nhân gây bệnh.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Rửa tay có tác dụng gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "việc rửa tay đúng cách là rất quan trọng để bảo vệ sức khỏe cá nhân và cộng đồng. dưới đây là một số lợi ích chính của việc rửa tay:\n\n1. ngăn ngừa lây nhiễm: rửa tay giúp loại bỏ vi khuẩn, virus và các chất ô nhiễm khác từ môi trường xung quanh. điều này giúp giảm nguy cơ mắc các bệnh truyền nhiễm như cảm lạnh, cúm, covid-19 và nhiều bệnh đường hô hấp khác.\n\n2. tránh tiếp xúc gần với người bị bệnh: sử dụng xà phòng và nước sạch trong ít nhất 20 giây hoặc khi không cần thiết, đặc biệt đối với những người có triệu chứng ho, hắt hơi hoặc khó thở. rửa tay thường xuyên giúp ngăn chặn sự lây lan của vi rút và đảm bảo an toàn cho bản thân và người khác trên bề mặt làm việc hàng ngày.\n*lưu ý: trước khi bắt đầu bất kỳ chương trình rửa tay nào, hãy tham khảo ý kiến của bác sĩ hoặc chuyên gia y tế để được tư vấn và hướng dẫn cụ thể về cách thực hiện rửa tay an toàn và hiệu quả.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Hệ tiêu hóa có nhiệm vụ gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vui lòng cung cấp hệ tiêu hóa của bạn để tôi có thể trả lời.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Xương trong cơ thể có chức năng gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xương đóng vai trò cực kỳ quan trọng đối với sự phát triển và duy trì sức khỏe của các cơ quan nội tạng. chức năng chính của xương là cung cấp nguồn dinh dưỡng thiết yếu cho cơ thể, giúp xây dựng nền tảng vững chắc cho các hoạt động sống hàng ngày.\n\nngoài ra, xương còn tham gia vào quá trình vận chuyển chất dinh dưỡng đến các mô và cơ quan khác, từ đó hỗ trợ quá trình trao đổi chất diễn ra hiệu quả hơn. tóm lại, xương không chỉ là một bộ phận cấu trúc mà còn là trung tâm điều phối mọi hoạt động sinh học của cơ thể.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Vitamin có vai trò gì đối với sức khỏe?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vắc-xin giúp tăng cường hệ miễn dịch, bảo vệ cơ thể khỏi các tác nhân gây bệnh như vi khuẩn và virus. nó cũng đóng vai trò quan trọng trong việc giảm nguy cơ mắc các bệnh mãn tính như tim mạch, tiểu đường loại 2 và một số loại ung thư. ngoài ra, vitamin c là chất chống oxy hóa mạnh mẽ giúp chống lại các gốc tự do, từ đó hỗ trợ quá trình trao đổi chất của cơ thể. vì vậy, việc bổ sung đủ vitamin c vào chế độ ăn uống hàng ngày không chỉ mang lại lợi ích cho sức khỏe mà còn góp phần nâng cao khả năng phòng ngừa nhiều bệnh tật khác nhau. bạn nên tham khảo ý kiến bác sĩ hoặc chuyên gia y tế trước khi bắt đầu bất kỳ chế độ dinh dưỡng mới nào để đảm bảo an toàn và hiệu quả nhất.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Vì sao nên ăn nhiều rau xanh?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "ăn ít rau xanh giúp cải thiện hệ tiêu hóa, hỗ trợ quá trình trao đổi chất và giảm nguy cơ mắc các bệnh liên quan đến đường ruột.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Khi bị đứt tay nhẹ nên sơ cứu như thế nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "**lưu ý quan trọng:** tôi là một mô hình ngôn ngữ ai và **không thể đưa ra lời khuyên y tế cá nhân.**\n\nnếu bạn gặp bất kỳ triệu chứng nghiêm trọng nào sau khi thực hiện các biện pháp cấp cứu, hãy liên hệ ngay với bác sĩ hoặc cơ sở y tế gần nhất để được chẩn đoán chính xác và có phương pháp điều trị phù hợp nhất.\n\ndưới đây là hướng dẫn chi tiết về cách xử lý tình huống khẩn cấp:\n\n---\n\n## i. nguyên tắc an toàn khi làm việc trong môi trường nguy hiểm (an toàn)",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Vì sao nên khám sức khỏe định kỳ?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "việc thăm khám định kỳ giúp phát hiện sớm các vấn đề sức khỏe tiềm ẩn, từ đó đưa ra phương pháp điều trị phù hợp và hiệu quả hơn. bạn có thể tham khảo ý kiến của bác sĩ hoặc chuyên gia y tế để được đánh giá chính xác tình trạng sức khỏe cá nhân trước khi quyết định khám.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786913709.9965847,
+  "user_id": "rin2anksn3y7",
+  "shared": true
+}

@@ -1,0 +1,119 @@
+{
+  "id": "test_11_nghe_nghiep",
+  "title": "Test nhóm 11_nghe_nghiep (11 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Bác sĩ làm công việc gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tôi là một mô hình ngôn ngữ ai được phát triển bởi openai. tôi không có quyền truy cập vào dữ liệu thời gian thực hoặc thông tin y tế cụ thể mà bạn đang đề cập đến.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Giáo viên có nhiệm vụ gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "giáo viên là người truyền đạt kiến thức, kỹ năng và giá trị cho học sinh thông qua các phương pháp giảng dạy.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Lập trình viên làm công việc gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "quản lý dự án là quá trình lập kế hoạch, tổ chức và điều phối các hoạt động để đạt được mục tiêu dự án một cách hiệu quả. dưới đây là một số công việc phổ biến:\n\n1. xác định yêu cầu dự án: đầu tiên, bạn cần hiểu rõ yêu cầu của khách hàng hoặc đối tác liên quan đến dự án.\n2. thiết kế hệ thống: tạo ra bản vẽ kỹ thuật chi tiết về cấu trúc, giao diện người dùng, cơ sở dữ liệu, vv.\n3. phát triển phần mềm: sử dụng ngôn ngữ lập trình phù hợp như c++, javascript để xây dựng ứng dụng di động.\n4. kiểm thử và sửa lỗi: thực hiện các bài kiểm tra chất lượng để đảm bảo tính ổn định và độ tin cậy của ứng dụng.\n5. quản lý tài chính: theo dõi và quản lý nguồn lực tài chính của doanh nghiệp, bao gồm vốn, nhân sự và ngân sách.\n6. tối ưu hóa quy trình sản xuất: áp dụng các phương pháp tối ưu hoá quy trình để cải thiện hiệu suất và giảm thiểu sai sót trong quá trình vận hành.\n7. hỗ trợ khách hàng: cung cấp hỗ trợ và giải đáp thắc mắc cho khách hàng khi họ gặp khó khăn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nông dân thường làm những công việc gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "công việc chính của nông dân là trồng trọt, chăn nuôi và khai thác tài nguyên thiên nhiên. họ sử dụng các phương pháp canh tác truyền thống để tạo ra sản phẩm có giá trị kinh tế cao. ngoài ra, họ còn tham gia vào các hoạt động bảo vệ môi trường như tưới tiêu, bón phân hữu cơ và quản lý đất đai hiệu quả. công việc này đòi hỏi sự kiên nhẫn, kỹ năng giao tiếp tốt và khả năng thích ứng với biến đổi khí hậu. nông dân đóng vai trò quan trọng trong việc duy trì và phát triển nền nông nghiệp bền vững cho thế hệ tương lai.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Công an làm công việc gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tôi là một mô hình ngôn ngữ ai và không thể đưa ra lời khuyên y tế. tôi chỉ có khả năng cung cấp thông tin về tình trạng sức khỏe cá nhân của bạn, bao gồm các triệu chứng như sốt cao kéo dài, mệt mỏi, đau đầu dữ dội, khó thở hoặc mất ý thức. nếu bạn gặp bất kỳ vấn đề nào liên quan đến sức khỏe tâm thần, hãy tìm kiếm sự giúp đỡ từ chuyên gia y tế ngay lập tức để được chẩn đoán chính xác và điều trị phù hợp.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Đầu bếp làm công việc gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "công việc đầu bếp là người chịu trách nhiệm chuẩn bị, chế biến và trình bày các món ăn theo yêu cầu của khách hàng. vai trò đầu bếp không chỉ bao gồm nấu nướng mà còn phải đảm bảo chất lượng, an toàn vệ sinh thực phẩm và sự hài lòng khi thưởng thức món ăn đó. họ cũng có thể tham gia vào các hoạt động liên quan đến ẩm thực để tạo ra trải nghiệm tốt nhất cho khách hàng và duy trì mối quan hệ lâu dài với nhà cung cấp. công việc này đòi hỏi kiến thức sâu rộng về nguyên liệu, quy trình chế biến, kỹ thuật nấu nướng và khả năng giao tiếp hiệu quả giữa đầu bếp và nhân viên phục vụ.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Kỹ sư xây dựng làm công việc gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "quản lý kỹ thuật là người chịu trách nhiệm thiết kế, xây dựng và vận hành các dự án xây dựng nhằm đảm bảo chất lượng, an toàn và hiệu quả của công trình. công việc bao gồm lập kế hoạch, phân tích yêu cầu kỹ thuật, quản lý nguồn lực, giám sát tiến độ thi công, phối hợp với các bên liên quan để giải quyết các vấn đề phát sinh trong quá trình xây dựng, từ đó tối ưu hóa lợi ích cho khách hàng và xã hội. ngoài ra, kỹ sư còn tham gia vào việc kiểm tra, đánh giá chất lượng công trình sau khi hoàn thành để rút kinh nghiệm và nâng cao năng suất lao động.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Phi công cần những kỹ năng gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "kỹ năng phi công là yếu tố then chốt để đảm bảo an toàn cho bản thân và hành khách trên máy bay.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nhà báo có nhiệm vụ gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "có, nhà báo đóng vai trò rất quan trọng trong việc cung cấp thông tin và giải quyết các vấn đề xã hội. họ không chỉ là người truyền đạt kiến thức mà còn là những chuyên gia tư vấn tâm lý cho cộng đồng.\n\nvai trò chính của nhà báo bao gồm:\n\n1. **cung cấp kiến thức:** nhà báo giúp bạn hiểu rõ hơn về các chủ đề đang được thảo luận, từ đó tạo ra sự hiểu biết sâu sắc hơn về thế giới xung quanh.\n2. **xây dựng mối quan hệ:** họ là cầu nối giữa cá nhân với nhau, hỗ trợ lẫn nhau trong công việc và cuộc sống hàng ngày.\n3. **tư duy phản biện:** nhà văn sử dụng ngôn ngữ đơn giản, dễ hiểu để đưa ra các lập luận logic và thuyết phục độc giả.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Luật sư làm công việc gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tôi là một mô hình ngôn ngữ ai và **không thể đưa ra lời khuyên y tế cá nhân**. tôi không có quyền truy cập vào thông tin y tế cụ thể mà bạn đang đề cập đến.\n\ntuy nhiên, bạn nên tìm kiếm sự tư vấn từ các chuyên gia y tế hoặc bác sĩ để nhận được lời khuyên chính xác nhất về tình trạng sức khỏe của mình.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Nhân viên bán hàng cần những kỹ năng gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "kỹ năng cốt lõi là khả năng giao tiếp hiệu quả, hiểu rõ nhu cầu của khách hàng và giải quyết vấn đề một cách nhanh chóng.\n\ncác kỹ năng quan trọng bao gồm:\n\n1. **tư duy phản biện (critical thinking):** nắm bắt thông tin từ nhiều góc độ khác nhau để đưa ra các giải pháp phù hợp nhất cho từng tình huống cụ thể.\n2. **quản lý thời gian:** biết ưu tiên công việc theo mức độ quan trọng, tránh lãng phí thời gian vào những nhiệm vụ không quan trọng hoặc gây phân tâm.\n3. **giao tiếp trực tiếp:** sử dụng ngôn ngữ cơ thể, cử chỉ và giọng điệu để truyền đạt thông điệp một cách rõ ràng và hiệu quả.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914106.3904552,
+  "user_id": "g13gotzr3rlv",
+  "shared": true
+}

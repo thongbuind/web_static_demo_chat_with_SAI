@@ -1,0 +1,109 @@
+{
+  "id": "test_27_cau_hoi_wh",
+  "title": "Test nhóm 27_cau_hoi_wh (10 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Ai là người phát minh ra bóng đèn?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bóng đèn được phát minh bởi thomas edison vào những năm 1870 và 1920.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Cái gì được dùng để đo nhiệt độ?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "nhiệt độ là một đại lượng vật lý cơ bản và quan trọng trong nhiều lĩnh vực, bao gồm hóa học, sinh học, môi trường và đời sống. nó cho biết mức độ nóng hay lạnh của một vật thể hoặc môi trường.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Khi nào thì Mặt Trời mọc?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "mặt trời mọc là khoảng thời gian từ lúc mặt trời lặn cho đến khi mặt trăng hoàn thành một vòng quỹ đạo quanh trái đất.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Ở đâu có thể tìm thấy nước biển?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "nước biển là môi trường sống tự nhiên của nhiều loài sinh vật, chủ yếu bao gồm cá, tôm và các sinh vật phù du khác. chúng đóng vai trò quan trọng trong hệ sinh thái đại dương, cung cấp nguồn thức ăn cho hàng triệu loài động vật và thực vật trên hành tinh này. ngoài ra, nước biển còn chứa một lượng lớn chất dinh dưỡng cần thiết cho sự phát triển và duy trì sức khỏe của con người. việc bảo vệ và quản lý nước biển là rất quan trọng để đảm bảo sự tồn tại và phát triển bền vững của hành tinh chúng ta.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tại sao lá cây có màu xanh?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "lá cây chứa nhiều chất hữu cơ, chủ yếu là carbon dioxide (co2) và oxit nitơ (nox). các hợp chất này được sử dụng trong quá trình quang hợp của thực vật để tạo ra năng lượng. khi ánh sáng mặt trời chiếu vào lá cây, nó hấp thụ khí co2 từ không gian xung quanh, làm tăng nhiệt độ bề mặt lá. ngoài ra, lá cây còn cung cấp oxy cho môi trường, giúp duy trì sự sống trên trái đất. vì vậy, màu xanh của lá cây đóng vai trò quan trọng trong việc bảo vệ môi trường tự nhiên khỏi tác động tiêu cực của biến đổi khí hậu.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Làm thế nào để học tốt môn Toán?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để học giỏi môn toán, bạn cần thực hiện một số bước quan trọng. đầu tiên, hãy tập trung vào việc nắm vững các khái niệm cơ bản trong toán học như phép cộng, phép nhân và phép trừ. tiếp theo, tìm hiểu về các quy tắc cơ bản của toán học, bao gồm cách đặt dấu ngoặc đơn giản (ví dụ: dùng dấu phẩy ở cuối câu) và cách giải quyết các bài toán phức tạp hơn. ngoài ra, luyện tập thường xuyên là rất quan trọng để củng cố kiến thức và kỹ năng toán học. cuối cùng, hãy kiên nhẫn và không nản lòng khi gặp khó khăn, vì điều này có thể làm mất đi sự tự tin và khả năng tư duy sáng tạo của bạn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Việt Nam có bao nhiêu tỉnh thành?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tính đến năm 2024, việt nam có tổng cộng 63 tỉnh thành.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Con nào lớn hơn, voi hay chuột?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "voi là một loài động vật có vú thuộc họ mèo (felidae). chúng sống chủ yếu ở các khu rừng nhiệt đới và cận nhiệt đới trên khắp thế giới. voi được coi là biểu tượng của sự mạnh mẽ, sức mạnh và quyền lực trong nhiều nền văn hóa khác nhau trên toàn cầu.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Vì đâu mà con người cần ăn uống mỗi ngày?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "ăn uống hàng ngày đóng vai trò vô cùng quan trọng đối với sức khỏe và trạng thái tinh thần của chúng ta. dưới đây là một số lý do chính:\n\n1. cung cấp năng lượng: chế độ ăn uống lành mạnh giúp cung cấp đủ năng lượng cho cơ thể, hỗ trợ quá trình trao đổi chất và duy trì cân bằng nước trong cơ thể.\n\n2. tăng cường hệ miễn dịch: ăn nhiều rau xanh, trái cây, ngũ cốc nguyên hạt và thực phẩm giàu vitamin c có thể giúp giảm nguy cơ mắc các bệnh mãn tính như ung thư, bệnh tim mạch, tiểu đường và béo phì. ngoài ra, việc tiêu thụ các loại thức ăn giàu omega-3 (như cá hồi) cũng rất quan trọng để hỗ trợ chức năng não bộ và cải thiện tâm trạng tổng quát.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Cái nào tốt hơn cho sức khỏe: nước lọc hay nước ngọt?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "nước lọc là một yếu tố cực kỳ quan trọng đối với sức khỏe của cơ thể. nó giúp cung cấp năng lượng và duy trì các chức năng sống cần thiết để hoạt động hiệu quả.\n\ntuy nhiên, nước lọc không phải là lựa chọn tối ưu nhất vì nó có thể gây ra nhiều vấn đề sức khỏe nghiêm trọng như bệnh tim mạch, tiểu đường loại 2 hoặc các rối loạn chuyển hóa khác. do đó, việc uống đủ nước là rất quan trọng để duy trì cân nặng lý tưởng và hỗ trợ quá trình trao đổi chất diễn ra bình thường. bạn nên tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi bắt đầu bất kỳ chế độ ăn uống mới nào.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914722.0116684,
+  "user_id": "ts4buqp213xq",
+  "shared": true
+}

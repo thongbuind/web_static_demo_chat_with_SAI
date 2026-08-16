@@ -1,0 +1,49 @@
+{
+  "id": "test_42_input_dai_nhieu_ngu_canh",
+  "title": "Test nhóm 42_input_dai_nhieu_ngu_canh (4 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Hôm nay tôi thức dậy trễ, vội vàng đi làm mà quên mất bữa sáng. Đến trưa thì tôi cảm thấy rất đói và hơi chóng mặt. Theo bạn thì lúc này tôi nên làm gì trước tiên?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn có thể thử một số cách sau để chuẩn bị cho buổi tối:\n1) ăn nhẹ hoặc uống nước lọc thay vì đồ ăn nhanh.\n2) tập thể dục nhẹ nhàng như đi bộ, chạy bộ hoặc tham gia các lớp thể dục nhóm.\n3) đọc sách hoặc xem phim để giảm căng thẳng.\n4) ngủ đủ giấc (7-8 tiếng mỗi đêm).\n5) tìm hiểu về kỹ năng quản lý thời gian và ưu tiên công việc quan trọng.\n6) học cách từ chối những yêu cầu không cần thiết trong cuộc sống hàng ngày.\n7) thực hiện các bài tập thở sâu hoặc thiền ngắn để thư giãn cơ thể.\n\nnếu bạn muốn, mình có thể giúp bạn lên kế hoạch chi tiết hơn dựa trên tình huống cụ thể của bạn. chúc bạn thành công!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Cuối tuần này gia đình tôi định đi du lịch Hà Nội 2 ngày 1 đêm, cả nhà có người lớn và 2 trẻ nhỏ, chưa từng đến Hà Nội bao giờ. Bạn có thể gợi ý vài địa điểm phù hợp để cả gia đình cùng tham quan không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tất nhiên! dưới đây là một số gợi ý cho chuyến du lịch cuối tuần tại hà nội:\n\nngày thứ bảy:\n- buổi sáng: thăm văn miếu - quốc tử giám (hà nội) và khám phá kiến trúc độc đáo của đền ngọc sơn.\n- trưa: thưởng thức món ăn đường phố truyền thống như bún chả, nem rán hoặc bánh cuốn.\n\nbuổi chiều: dạo quanh hồ gươm và tận hưởng không khí yên bình của thành phố. bạn cũng có thể tham gia vào các hoạt động vui chơi ngoài trời như đi thuyền trên sông hồng hay tham gia lớp học nấu ăn truyền thống ở chợ đồng xuân. đừng quên thử những món ăn đặc trưng của hà nội như phở, bún chả và nước mắm pha chua ngọt. nếu cần thêm thông tin chi tiết hơn, hãy liên hệ với đại sứ quán việt nam tại thủ đô. chúc bạn có một kỳ nghỉ thú vị và đáng nhớ!\n\nchúc mọi điều tốt lành!\n[your name]",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tôi đang học lập trình Python được 2 tuần, đã biết biến và vòng lặp for, nhưng vẫn chưa hiểu rõ về hàm (function). Bạn có thể giải thích hàm là gì một cách đơn giản, dễ hiểu cho người mới bắt đầu không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "rất tiếc là hiện tại mình chưa thể hỗ trợ bạn lập trình. vì mình chỉ là một mô hình ngôn ngữ nhỏ và vẫn đang trong quá trình phát triển, nên mình chưa được huấn luyện để xử lý các yêu cầu kỹ thuật chuyên sâu như vậy. mong bạn thông cảm nhé!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tuần trước tôi bị cảm, uống thuốc và nghỉ ngơi vài ngày thì đỡ hơn. Nhưng hôm nay tôi lại thấy hơi đau đầu và mệt. Theo bạn tôi có nên tiếp tục nghỉ ngơi ở nhà hay nên đi khám bác sĩ?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tôi là một mô hình ngôn ngữ ai và không thể đưa ra lời khuyên y tế cá nhân. tuy nhiên, nếu bạn đang gặp vấn đề về giấc ngủ hoặc sức khỏe của mình, hãy tham khảo ý kiến của bác sĩ để được tư vấn và điều trị phù hợp. dưới đây là một số gợi ý:\n\n1. **ngủ đủ giấc:** cố gắng ngủ từ 7 đến 8 giờ mỗi đêm (khoảng 4-6 tiếng) để cơ thể phục hồi và tái tạo năng lượng cho các hoạt động hàng ngày.\n2. **ăn uống lành mạnh:** ăn nhiều rau xanh, trái cây tươi, ngũ cốc nguyên hạt, protein nạc và chất béo lành mạnh để cung cấp dưỡng chất cần thiết cho cơ thể.\n3. **tập thể dục đều đặn:** dành ít nhất 30 phút mỗi ngày để vận động nhẹ nhàng như đi bộ, chạy, yoga, hoặc tham gia các lớp thể dục nhóm.\n4. **tránh căng thẳng quá mức:** hạn chế thời gian ngồi lâu trong môi trường ồn ào hoặc thiếu ánh sáng tự nhiên.\n5. **uống đủ nước:** đảm bảo cơ thể nhận đủ lượng nước cần thiết để duy trì sự cân bằng nội tiết tố.\n\nnếu tình trạng này kéo dài hoặc trở nên nghiêm trọng, bạn nên tìm kiếm sự giúp đỡ từ chuyên gia y tế ngay lập tức.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786915074.9966035,
+  "user_id": "pq5a4adjt4iq",
+  "shared": true
+}

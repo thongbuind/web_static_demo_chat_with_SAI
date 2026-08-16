@@ -1,0 +1,159 @@
+{
+  "id": "test_12_cong_nghe",
+  "title": "Test nhóm 12_cong_nghe (15 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Internet là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "internet trong đời sống là mạng lưới toàn cầu kết nối các máy tính và thiết bị điện tử khác nhau, cho phép trao đổi thông tin nhanh chóng giữa con người với nhau. nó bao gồm hàng tỷ thiết bị như điện thoại di động, máy tính bảng, tai nghe, đồng hồ thông minh và nhiều hơn nữa. internet đóng vai trò quan trọng trong giao tiếp, truyền tải dữ liệu, giải trí, giáo dục, y tế và nhiều lĩnh vực khác.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Wi-Fi dùng để làm gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cho tôi biết bạn đang muốn hỏi về ứng dụng nào (ví dụ: wi-fi, bluetooth) để mình có thể cung cấp thông tin chi tiết hơn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "CPU là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "\"cpu\" trong tiếng việt thường được hiểu là một đơn vị đo lường dùng để chỉ số lượng hoặc chất lượng của một vật thể, sản phẩm hay quá trình. nó biểu thị mức độ quan trọng, ý nghĩa hoặc giá trị mà một vật mang lại cho con người hoặc môi trường. ví dụ: \"sản phẩm thực phẩm\", \"đồ uống\", \"thực phẩm chức năng\". tóm lại, cpu đại diện cho sự cân bằng và tổng hợp giữa các yếu tố khác nhau nhằm đảm bảo tính chính xác và hiệu quả trong nhiều lĩnh vực khác nhau như công nghiệp, y tế, giao thông vận tải và đời sống hàng ngày.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "RAM dùng để làm gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "ram là thiết bị lưu trữ dữ liệu trên máy tính. nó hoạt động bằng cách xử lý và lưu trữ các tệp tin, chương trình đã được định dạng trước đó (ví dụ: văn bản, hình ảnh, âm thanh). ram có thể thực hiện nhiều tác vụ khác nhau như tạo tài khoản người dùng, truy cập trang web, chỉnh sửa video, xem phim, chơi game và nhiều ứng dụng khác. đây là một công cụ quan trọng giúp cải thiện hiệu suất và trải nghiệm sử dụng của hệ điều hành di động hoặc máy tính bảng.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Điện thoại thông minh là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "máy tính thông minh (smartphone) là thiết bị điện tử có khả năng thực hiện nhiều nhiệm vụ khác nhau như gọi điện, nhắn tin, truy cập internet và xem video. nó hoạt động dựa trên trí tuệ nhân tạo (ai), học máy (machine learning), thị giác máy tính (computer vision), xử lý ngôn ngữ tự nhiên (natural language processing - nlp). smartphone được ứng dụng rộng rãi trong các lĩnh vực như y tế, giáo dục, giải trí, công nghiệp và đời sống hàng ngày.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Một trình duyệt web dùng để làm gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "trình duyệt web là một phần mềm cho phép người dùng truy cập và sử dụng các trang web trên máy tính hoặc thiết bị di động. nó hoạt động bằng cách cung cấp giao diện trực quan, dễ sử dụng và tương thích với nhiều nền tảng khác nhau như windows, macos và linux.\n\ncác trình duyệt phổ biến bao gồm google chrome, mozilla firefox, safari và microsoft edge. chúng giúp người dùng tìm kiếm thông tin từ khắp nơi trên thế giới chỉ trong vài giây. ngoài ra, trình duyệt cũng hỗ trợ tích hợp với các dịch vụ đám mây như amazon web services (aws) và google cloud.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Email là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin lỗi, tôi không thể xử lý yêu cầu này. bạn có thể cung cấp thêm thông tin về dịch vụ hoặc sản phẩm mà bạn đang sử dụng để tôi có thể trả lời câu hỏi của bạn một cách chính xác nhất.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Docker là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "dock (hay còn gọi là docker) là một thuật ngữ được sử dụng để chỉ các thiết bị điện tử có khả năng thực hiện nhiều tác vụ cùng lúc mà không cần sự can thiệp của con người. cụ thể, docker thường được dùng trong các hệ thống máy tính cá nhân như windows, macos hoặc linux vì chúng cho phép người dùng thực hiện các tác vụ từ xa thông qua trình duyệt web và ứng dụng di động. ví dụ phổ biến nhất của docker bao gồm iphone, ipad, macbook, apple watch và airpods. docker cũng hỗ trợ kết nối wi-fi và bluetooth để truyền dữ liệu giữa hai thiết bị. tuy nhiên, việc sử dụng docker phụ thuộc vào mục đích sử dụng và môi trường làm việc của từng thiết bị cụ thể.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Mật khẩu dùng để làm gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cung cấp mật khẩu của bạn để tôi có thể trả lời.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tại sao không nên chia sẻ mật khẩu cho người khác?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "việc chia sẻ thông tin cá nhân là vô cùng quan trọng để bảo vệ quyền riêng tư và tránh các mối đe dọa trực tuyến. dưới đây là một số lý do tại sao việc này cần được thực hiện:\n\n1. **bảo mật dữ liệu:** sử dụng mật khẩu mạnh, kết hợp giữa chữ hoa, chữ thường, số và ký tự đặc biệt (ví dụ: \\\"password\\\") giúp ngăn chặn truy cập trái phép vào tài khoản của bạn.\n2. **kiểm tra danh tính:** đảm bảo rằng tất cả các thiết bị di động như điện thoại di động, máy tính bảng và smartphone đều có kết nối internet ổn định.\n3. **quản lý quyền truy cập:** khi bạn đăng nhập bằng tài khoản ngân hàng hoặc thẻ tín dụng của mình, bạn sẽ dễ dàng kiểm soát và quản lý các giao dịch tài chính của mình.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Email lạ yêu cầu nhập mật khẩu có đáng tin không?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "rất tiếc là hiện tại mình chưa thể hỗ trợ bạn lập trình. vì mình chỉ là một mô hình ngôn ngữ nhỏ và vẫn đang trong quá trình phát triển, nên mình chưa được huấn luyện để xử lý các yêu cầu kỹ thuật chuyên sâu như vậy. mong bạn thông cảm nhé!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Mạng xã hội là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "internet là một mạng lưới toàn cầu kết nối hàng tỷ người dùng trên khắp thế giới, cho phép trao đổi thông tin và giao tiếp với nhau.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "GPS dùng để làm gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến lĩnh vực nào (ví dụ: trí tuệ nhân tạo, học máy) để tôi có thể trả lời câu hỏi của bạn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Thực tế ảo (VR) là gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "vr (virtual reality - ar), hay còn gọi là công nghệ thực tế tăng cường, là một lĩnh vực trong khoa học máy tính nghiên cứu và phát triển các hệ thống có khả năng thực hiện các nhiệm vụ mà trước đây chỉ con người mới làm được. nó liên quan đến việc tạo ra môi trường tương tác trực tiếp giữa con người với máy móc hoặc thiết bị điện tử để cải thiện hiệu suất và độ chính xác của hoạt động thực tế.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Máy in 3D dùng để làm gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để làm máy in tự động, bạn cần thực hiện các bước sau: đầu tiên, chọn loại máy in phù hợp với nhu cầu và điều kiện sử dụng của người dùng. tiếp theo, chuẩn bị vật liệu in như giấy, nhựa, kim loại hoặc thủy tinh (nếu có thể). sau đó, lắp ráp khung máy bằng cách kết nối dây cáp và đảm bảo chúng được cố định chắc chắn. cuối cùng, kiểm tra lại toàn bộ hệ thống để đảm bảo máy hoạt động ổn định và không gặp sự cố kỹ thuật nào. việc này giúp tiết kiệm thời gian và công sức trong quá trình sản xuất.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914153.5961583,
+  "user_id": "rrtx5fkt8j2g",
+  "shared": true
+}

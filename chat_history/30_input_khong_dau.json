@@ -1,0 +1,109 @@
+{
+  "id": "test_30_input_khong_dau",
+  "title": "Test nhóm 30_input_khong_dau (10 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "an com chua",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "ancom chua là một món ăn truyền thống của việt nam, đặc biệt phổ biến ở miền bắc và trung quốc. đây không chỉ đơn thuần là một bữa ăn mà còn mang ý nghĩa văn hóa sâu sắc trong đời sống hàng ngày của người dân địa phương.\n\nvề mặt ẩm thực, ancom chua nổi bật với sự kết hợp hài hòa giữa các nguyên liệu tươi ngon như rau củ, thịt, cá và gia vị, tạo nên hương vị đậm đà và hấp dẫn. món ăn này thường được phục vụ kèm theo nước mắm pha chua ngọt hoặc tương ớt để tăng thêm độ cay nồng cho món ăn. ngoài ra, nó còn thể hiện nét văn hóa ẩm thực phong phú và đa dạng của khu vực miền bắc việt nam.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "hom nay troi dep khong",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "chắc chắn rồi anh, có việc gì cần nhờ không anh",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "ban ten gi vay",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "ban ten gi là một khái niệm trong toán học và khoa học máy tính, chỉ mối quan hệ giữa hai giá trị đầu vào (input) và đầu ra (output). cụ thể:1. input là phần tử nằm ở vị trí cuối cùng của một hàm số hoặc dãy số. ví dụ: a = 2, b = 3, c = 5, d = 6.24; bạn có thể gọi hàm này bằng tên khác để giải phương trình.2. def calculate_equation(a, b): √(b^2 - 4ac) ≈ 0.89755432556789.3. định lý pythagoras giúp giải quyết các bài toán liên quan đến xác suất, thống kê và tìm kiếm thông tin hữu ích trong lĩnh vực khoa học dữ liệu và công nghệ thông tin.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "thu do cua viet nam la gi",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "cua việt nam là một quốc gia nằm ở đông nam á, nổi tiếng với nền văn hóa phong phú và đa dạng. thủ đô của đất nước là hà nội, nơi có nhiều di tích lịch sử quan trọng như hoàng thành thăng long (hà nội), đền hùng (thanh hóa) và lăng chủ tịch hồ chí minh (việt nam). ngoài ra, vịnh hạ long cũng được unesco công nhận là di sản thế giới vào năm 1982, thu hút hàng triệu du khách trong và ngoài nước mỗi năm. ẩm thực việt nam rất phong phú với các món ăn truyền thống như phở, bún chả, nem rán, bánh xèo, gỏi cuốn và nhiều món hải sản tươi ngon khác. văn hóa ẩm thực của việt nam không chỉ dừng lại ở việc thưởng thức hương vị mà còn thể hiện bản sắc văn hóa đặc trưng của từng vùng miền. chính vì vậy, việt nam đã trở thành điểm đến hấp dẫn cho du khách từ khắp nơi trên thế giới.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "toi muon hoc tieng anh thi bat dau tu dau",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "để học tiếng anh hiệu quả, bạn nên bắt đầu bằng việc nắm vững ngữ pháp và từ vựng cơ bản. trước hết, hãy đọc sách giáo trình tiếng anh phù hợp với trình độ của mình để làm quen với cấu trúc ngôn ngữ và cách phát âm. tiếp theo, tham gia các khóa học trực tuyến hoặc sử dụng ứng dụng di động để giao tiếp với người bản xứ. ngoài ra, thực hành nghe nói hàng ngày cũng rất quan trọng để cải thiện khả năng ghi nhớ và hiểu sâu sắc văn hóa tiếng anh. cuối cùng, hãy kiên nhẫn luyện tập thường xuyên để nâng cao vốn từ vựng và kỹ năng viết. nếu gặp khó khăn trong quá trình luyện tập, bạn có thể nhờ sự giúp đỡ từ người thân, bạn bè hoặc chuyên gia tiếng anh để được hướng dẫn chi tiết hơn. chúc bạn thành công!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "gioi thieu ve ha noi di",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "ha nội là thủ đô và thành phố lớn nhất của việt nam, nằm ở miền bắc đất nước.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "may gio roi ban oi",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "may mắn là khái niệm chỉ trạng thái hoặc sự việc xảy ra một cách tình cờ, có lợi hoặc thuận lợi cho một người hay vật nào đó. nó thường liên quan đến sự thành công trong công việc, học tập và các mối quan hệ cá nhân, giúp con người cảm thấy hài lòng, thỏa mãn với những gì đã đạt được sau thời gian làm việc hoặc học tập. may mắn không phải lúc nào cũng dễ dàng mà phụ thuộc vào hoàn cảnh cụ thể của mỗi người.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "cho toi hoi duong den ben xe buyt gan nhat",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "rất tiếc là hiện tại mình chưa thể hỗ trợ bạn lập trình. vì mình chỉ là một mô hình ngôn ngữ nhỏ và vẫn đang trong quá trình phát triển, nên mình chưa được huấn luyện để xử lý các yêu cầu kỹ thuật chuyên sâu như vậy. mong bạn thông cảm nhé!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "lam sao de nau com ngon",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "de naucom là một phương pháp nấu ăn truyền thống của việt nam, đặc biệt phổ biến trong ẩm thực châu á. đây không chỉ đơn thuần là việc chuẩn bị nguyên liệu mà còn đòi hỏi sự tỉ mỉ và kỹ thuật cao để tạo ra các món ăn có hương vị phong phú và hấp dẫn.\n\ndưới đây là hướng dẫn chi tiết về cách làm denaucom:\n\n---",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "2 cong 2 bang may",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "2 công 2 bằng may là một trong những công cụ quan trọng nhất giúp tăng hiệu suất làm việc và tiết kiệm thời gian khi thực hiện các tác vụ hàng ngày. cụ thể, bạn có thể sử dụng máy tính hoặc điện thoại di động để quản lý lịch trình, đặt mục tiêu rõ ràng cho từng nhiệm vụ (ví dụ: lập kế hoạch dự án mới, hoàn thành báo cáo cuối kỳ). ngoài ra, bạn cũng có thể dùng ứng dụng di động như google calendar để theo dõi tiến độ công việc, nhắc nhở bản thân về deadline và ưu tiên nhiệm vụ quan trọng. tóm lại, 2 công cụ này không chỉ giúp nâng cao hiệu quả công việc mà còn mang lại sự linh hoạt và khả năng thích nghi tốt hơn với môi trường làm việc thay đổi liên tục.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914831.8916945,
+  "user_id": "7vts47ugrynk",
+  "shared": true
+}

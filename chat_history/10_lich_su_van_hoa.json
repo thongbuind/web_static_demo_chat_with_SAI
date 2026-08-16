@@ -1,0 +1,159 @@
+{
+  "id": "test_10_lich_su_van_hoa",
+  "title": "Test nhóm 10_lich_su_van_hoa (15 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Ngày Quốc khánh Việt Nam là ngày nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "quốc khánh nước cộng hòa xã hội chủ nghĩa việt nam được tổ chức vào ngày 2 tháng 9 năm 1945.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Ai là người đọc Tuyên ngôn Độc lập năm 1945?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tuyên ngôn này được viết vào ngày 2 tháng 7 năm ất tỵ (tức ngày 30 tháng 6 dương lịch) tại quảng trường ba đình ở hà nội. đây là một sự kiện quan trọng trong lịch sử dân tộc việt nam, đánh dấu sự kết thúc của chế độ phong kiến và mở ra thời kỳ mới cho đất nước. tuyên ngôn đã trở thành biểu tượng của lòng yêu nước, tinh thần tự hào dân tộc và ý chí kiên cường chống ngoại xâm của nhân dân việt nam.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tết Nguyên Đán là dịp gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "t tết nguyên đán, hay còn gọi là lễ hội truyền thống của người việt nam, được tổ chức vào ngày mùng 1 tháng giêng âm lịch hàng năm. đây là một trong những ngày lễ quan trọng nhất và có ý nghĩa văn hóa sâu sắc đối với người dân việt nam.\n\ntrong dịp này, mọi người thường quây quần bên gia đình, bạn bè và cùng nhau thưởng thức các món ăn truyền thống như bánh chưng, bánh tét, nem rán, và các loại trái cây tươi ngon. đây không chỉ là thời điểm để sum họp gia đình mà còn là cơ hội để gắn kết tình cảm gia đình và thể hiện lòng biết ơn đối với tổ tiên. tết mang đến niềm vui, sự đoàn viên và hy vọng cho một năm mới an lành, thịnh vượng.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Áo dài là trang phục truyền thống của nước nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "trong văn hóa việt nam, áo dài thường được coi là biểu tượng quốc gia và gắn liền với lịch sử dân tộc.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Việt Nam có những ngày lễ lớn nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "năm 2018, việt nam đã trải qua nhiều ngày lễ quan trọng trong lịch sử. dưới đây là một số ngày lễ đáng chú ý:\n\n1. tết nguyên đán (tháng giêng): đây là dịp để gia đình sum họp bên nhau và chúc mừng năm mới. người dân thường tổ chức các hoạt động vui chơi truyền thống như xem múa lân, đốt pháo hoa và thưởng thức các món ăn truyền thống của đất nước.\n\n2. tết dương lịch (tháng 1): đây là thời điểm chuyển giao từ mùa xuân sang mùa hè, khi mọi người chuẩn bị cho một năm mới với nhiều hoạt động thú vị như đi du thuyền trên biển, tham dự các buổi biểu diễn nghệ thuật truyền thống, hoặc tận hưởng bữa tiệc cuối năm tại nhà hàng và quán cà phê địa phương.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tại sao người Việt Nam thường lì xì vào dịp Tết?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tết là ngày lễ truyền thống quan trọng của dân tộc việt nam, thể hiện lòng tri ân tổ tiên và cầu mong một năm mới an lành, thịnh vượng.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Hai Bà Trưng là ai trong lịch sử Việt Nam?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "hoàng đế lý thái tổ (lý công uẩn) là vị hoàng đế đầu tiên của triều đại nhà lý, trị vì từ năm 1028 đến năm ất tỵ (1054-1079).",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Trần Hưng Đạo được biết đến với chiến công gì?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "trần hưng đạo là một nhà lãnh đạo quân sự và chính trị nổi tiếng trong lịch sử việt nam. ông đã đóng vai trò quan trọng trong cuộc kháng chiến chống lại thực dân pháp, giành độc lập cho đất nước vào năm 1945.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Chiến thắng Điện Biên Phủ diễn ra vào năm nào?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "năm 1954 đánh dấu sự kết thúc của chiến tranh việt nam, khi quân đội nhân dân việt nam tiến hành cuộc tổng tiến công và nổi dậy tết mậu thân (1968). đây là một bước ngoặt quan trọng trong lịch sử kháng chiến chống mỹ cứu nước của việt nam.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Truyện Kiều là tác phẩm của ai?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "nguyễn du (1769-1820) là một trong những nhà văn nổi tiếng nhất trong lịch sử văn học việt nam.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Lễ hội đền Hùng được tổ chức để tưởng nhớ ai?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "được tổ chức vào ngày mùng 10 tháng giêng âm lịch hàng năm tại khu di tích quốc gia đặc biệt đền hùng. đây là một trong những lễ hội truyền thống quan trọng của dân tộc việt nam, thu hút đông đảo người dân và du khách tham dự.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Chợ nổi ở miền Tây Nam Bộ có gì đặc biệt?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "ở miền tây, chợ nổi không chỉ là nơi mua bán hàng hóa mà còn thu hút du khách bởi sự sầm uất và đa dạng của nền kinh tế địa phương. điểm đặc trưng nhất của chợ này chính là sự kết hợp hài hòa giữa truyền thống và hiện đại, tạo nên một trải nghiệm văn hóa phong phú cho người dân địa phương và du khách.\n\nngoài ra, chợ còn được biết đến với các món ăn đường phố phong phú như phở, bún chả, bánh xèo, mang lại cảm giác ấm cúng khi thưởng thức cùng gia đình và bạn bè. những món ăn này không chỉ ngon miệng mà còn thể hiện bản sắc văn hóa ẩm thực độc đáo của vùng đất này.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Hãy giải thích ý nghĩa câu tục ngữ 'Ăn quả nhớ kẻ trồng cây'.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "câu tục ngữ \"trồng cây nhớ người trồng cây\" có ý nghĩa nhấn mạnh tầm quan trọng của việc giữ gìn và bảo vệ môi trường tự nhiên. nó nhắc nhở chúng ta về trách nhiệm của mỗi cá nhân trong việc chăm sóc và bảo tồn các loại cây, đồng thời khuyến khích sự phát triển bền vững của cộng đồng xung quanh chúng ta. bằng cách thực hiện những hành động nhỏ như tưới nước, bón phân hữu cơ hoặc tạo ra không gian xanh, chúng ta góp phần xây dựng một thế giới tốt đẹp hơn cho tất cả mọi người trên trái đất. điều này giúp duy trì cân bằng sinh thái, giảm thiểu tác động tiêu cực đến môi trường và đảm bảo một tương lai tươi sáng cho thế hệ sau.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Hãy giải thích ý nghĩa câu tục ngữ 'Uống nước nhớ nguồn'.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "câu tục ngữ này nhấn mạnh tầm quan trọng của việc giữ gìn và bảo tồn các giá trị văn hóa truyền thống. nó nhắc nhở chúng ta về sự đoàn kết, lòng tự hào dân tộc và trách nhiệm chung trong cộng đồng.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Việt Nam có bao nhiêu dân tộc anh em?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tính đến năm 2024, việt nam là quốc gia đông dân nhất thế giới.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914063.1308234,
+  "user_id": "rg603pwnd6ah",
+  "shared": true
+}

@@ -1,0 +1,89 @@
+{
+  "id": "test_36_cau_hoi_tien_de_sai",
+  "title": "Test nhóm 36_cau_hoi_tien_de_sai (8 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Tại sao Mặt Trời quay quanh Trái Đất?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "mặt trời là ngôi sao trung tâm của hệ mặt trời, nằm ở vị trí cách trái đất khoảng 360 năm ánh sáng. đây là một trong những nguồn năng lượng chính cho sự sống trên hành tinh chúng ta và các loài sinh vật khác. mặt trời không chỉ cung cấp năng lượng để duy trì sự sống mà còn đóng vai trò quan trọng trong việc điều hòa khí hậu toàn cầu.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Vì sao con người chỉ có 1 mắt?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "mắt của chúng ta là một trong những bộ phận quan trọng nhất trên cơ thể, đóng vai trò cực kỳ quan trọng đối với sức khỏe và sự phát triển toàn diện.\n\nvề mặt thị giác, mắt giúp chúng ta nhìn rõ hơn các vật thể xung quanh, từ đó nhận biết được môi trường xung quanh và tìm kiếm thức ăn. ngoài ra, mắt còn cung cấp thông tin về vị trí, kích thước và cấu trúc của các tế bào thần kinh (neurons) trong não bộ. tóm lại, mắt cho phép chúng ta tương tác hiệu quả với môi trường bên ngoài, hỗ trợ quá trình học tập và giao tiếp xã hội.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tại sao nước đóng băng ở 100 độ C?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "nước đóng băng là một quá trình tự nhiên xảy ra khi nhiệt độ không khí giảm xuống dưới điểm đóng băng, dẫn đến sự ngưng tụ hơi nước thành các tinh thể băng nhỏ. quá trình này diễn ra liên tục và kéo dài hàng triệu năm.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Vì sao Việt Nam không có biển?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "việt nam là một quốc gia nằm ở đông nam á, nổi tiếng với cảnh quan thiên nhiên tuyệt đẹp và đa dạng sinh học phong phú.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tại sao con cá có thể thở trên cạn suốt cả ngày?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "con cá có khả năng thở bằng cách sử dụng hệ thống hô hấp và phổi để duy trì sự sống. quá trình này diễn ra chủ yếu thông qua việc hít vào và thở ra, giúp cơ thể tạo ra oxy cần thiết cho các hoạt động hàng ngày của chúng ta. ngoài ra, nó cũng đóng vai trò quan trọng trong việc điều chỉnh nhiệt độ cơ thể và cung cấp oxy cho môi trường xung quanh. tóm lại, con cá là một phần không thể thiếu trong cuộc sống hàng ngày, mang lại nhiều lợi ích về sức khỏe và tinh thần.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Vì sao mèo là một loài chim?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "mèo là loài động vật thuộc họ mèo (felidae). chúng có kích thước trung bình, thân hình tròn trịa và bộ lông màu nâu sẫm. mèo thường được nuôi làm thú cưng vì tính cách hiền lành, dễ chăm sóc và thích sống gần gũi với con người. ngoài ra, mèo còn có khả năng học hỏi nhanh nhạy và thích nghi tốt với môi trường xung quanh. tuy nhiên, việc nuôi mèo đòi hỏi sự quan tâm đến sức khỏe và tình cảm của chủ nhân để đảm bảo an toàn và phát triển tốt nhất cho nó.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Tại sao một tuần lại có 10 ngày?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "một tuần là khoảng thời gian trong năm khi mặt trời ở vị trí cao nhất trên bầu trời và trái đất quay quanh trục của nó. vì vậy, một tuần thường bắt đầu từ thứ hai (thứ ba) và kết thúc vào chủ nhật (thứ sáu). tuy nhiên, để biết chính xác một tuần cụ thể có bao nhiêu ngày hay không, bạn nên kiểm tra lịch trình của mình.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Vì sao Hà Nội là thủ đô của nước Nhật Bản?",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "hà nội, thủ đô và thành phố lớn nhất của việt nam, nổi tiếng với lịch sử lâu đời và văn hóa phong phú. dưới đây là một số điểm đáng chú ý về hà nội:\\n\\n1. hồ gươm: nằm ở trung tâm thành phố, hồ gươm có diện tích rộng lớn và là nơi tập trung nhiều hoạt động vui chơi giải trí. du khách có thể tham gia vào các buổi biểu diễn nghệ thuật truyền thống như múa rối nước hoặc đi thuyền trên sông hồng để tận hưởng không khí yên bình.\\n2. lăng chủ tịch hồ chí minh: được xây dựng từ năm 1945 đến nay, lăng bác đã trở thành di sản văn hóa thế giới của unesco. nó là nơi lưu giữ thi hài của người sáng lập đảng cộng sản việt nam và cũng là địa điểm tổ chức đại lễ kỷ niệm 100 năm cách mạng tháng tám (19-8).\\n3. đền ngọc sơn: đền này được coi là một trong những công trình kiến trúc tôn giáo quan trọng nhất tại việt nam. với kiến trúc độc đáo và giá trị lịch sử cao, đền này thu hút hàng triệu du khách mỗi năm. ngoài ra, hà nội còn được biết đến với ẩm thực đa dạng, bao gồm phở, bún chả, nem rán, bánh cuốn và nhiều món ăn khác.\\nhy vọng rằng hà nội sẽ mang lại cho bạn những trải nghiệm tuyệt vời khi khám phá vẻ đẹp và sự phồn thịnh của đất nước này!",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914933.0561512,
+  "user_id": "n3bkua99sgnl",
+  "shared": true
+}

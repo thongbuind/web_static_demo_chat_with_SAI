@@ -1,0 +1,89 @@
+{
+  "id": "test_23_dich_thuat",
+  "title": "Test nhóm 23_dich_thuat (8 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Dịch câu 'Tôi tên là Nam' sang tiếng Anh.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin lỗi, tôi không thể trả lời câu hỏi này vì tôi chỉ là một mô hình ngôn ngữ nhỏ và vẫn đang trong quá trình phát triển. tuy nhiên, bạn có thể tìm kiếm thông tin từ các nguồn đáng tin cậy như sách, bài báo hoặc trang web chuyên về lĩnh vực y tế để biết thêm thông tin chi tiết.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Dịch câu 'I love my family' sang tiếng Việt.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin chào mọi người, tôi là [tên của bạn]. tôi rất vui được làm quen với bạn và chia sẻ những niềm vui trong cuộc sống hàng ngày. hy vọng chúng ta có thể gặp nhau sớm!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Dịch từ 'cảm ơn' sang tiếng Anh.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin chào! tôi là chatgpt, một mô hình ngôn ngữ ai được phát triển bởi openai. nhiệm vụ của bạn là cung cấp thông tin và trả lời các câu hỏi liên quan đến lĩnh vực trí tuệ nhân tạo (ai). hãy cho tôi biết bạn cần trợ giúp gì để tôi có thể hỗ trợ bạn nhé!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Dịch câu 'Hôm nay là một ngày đẹp trời' sang tiếng Anh.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "hello, i have a beautiful day?",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Dịch câu 'Where are you from?' sang tiếng Việt.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "tôi đang ở đây và sẵn sàng hỗ trợ bạn trong việc tìm kiếm thông tin liên quan đến một chủ đề cụ thể nào đó. vui lòng cung cấp thêm ngữ cảnh để tôi có thể trả lời chính xác hơn nhé!",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Dịch từ 'xin lỗi' sang tiếng Anh.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "\"xin lỗi\" là một cụm từ trong tiếng việt dùng để diễn đạt ý kiến, cảm xúc hoặc lời xin lỗi một cách chân thành và lịch sự. ví dụ: \"tôi xin lỗi vì đã làm bạn thất vọng.\"",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Dịch câu 'Chúc bạn ngủ ngon' sang tiếng Anh.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "chúc mừng sinh nhật! mong rằng ngày hôm nay sẽ tràn đầy niềm vui và hạnh phúc trong cuộc sống của bạn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Dịch câu 'What time is it?' sang tiếng Việt.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "xin lỗi, tôi không thể trả lời câu hỏi này vì đây là một đoạn văn bản thuần túy và không có ngữ cảnh cụ thể nào được cung cấp. tuy nhiên, bạn có thể sử dụng các dịch vụ trực tuyến hoặc ứng dụng di động để tìm kiếm thông tin về thời tiết hiện tại ở địa phương của mình. hãy chắc chắn kiểm tra lại các nguồn đáng tin cậy như trang web chính thức của trung tâm dự báo khí tượng thủy văn quốc gia để biết thêm thông tin chi tiết và cập nhật nhất về tình hình thời tiết trong khu vực đó.",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786914620.7602398,
+  "user_id": "u808jc5zxmfd",
+  "shared": true
+}

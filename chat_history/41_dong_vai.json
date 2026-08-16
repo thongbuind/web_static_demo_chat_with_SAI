@@ -1,0 +1,69 @@
+{
+  "id": "test_41_dong_vai",
+  "title": "Test nhóm 41_dong_vai (6 inputs)",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Giả sử bạn là một giáo viên, hãy giải thích cho học sinh vì sao cần học bài.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "học bài là quá trình truyền đạt kiến thức, kỹ năng và giá trị từ người này sang người khác thông qua ngôn ngữ, cử chỉ hoặc các phương pháp giảng dạy phù hợp nhằm nâng cao hiệu quả học tập của học sinh. học bài không chỉ giúp phát triển tư duy logic mà còn rèn luyện khả năng phân tích, suy nghĩ sáng tạo và phản biện trong cuộc sống hàng ngày. đây là yếu tố quan trọng để xây dựng nền tảng vững chắc cho sự thành công trong học tập và phát triển cá nhân cũng như xã hội.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Hãy đóng vai một người bạn đang an ủi tôi vì tôi vừa thi trượt.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "mình hiểu cảm giác của bạn lúc này. mình ở đây để lắng nghe và giúp đỡ bạn.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Giả sử bạn là hướng dẫn viên du lịch, hãy giới thiệu về Hà Nội.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "hà nội, thủ đô của việt nam, nổi tiếng với vẻ đẹp tự nhiên tuyệt vời và văn hóa đa dạng. dưới đây là một số điểm đến hấp dẫn mà bạn không thể bỏ qua khi khám phá hà nội:\n\n1. hồ gươm: nằm ở trung tâm thành phố, hồ gươm là biểu tượng của hà nội và được unesco công nhận là di sản thế giới vào năm 1982. nơi này có những con đường nhỏ hẹp, cây cầu gỗ cổ kính và kiến trúc độc đáo.\n\n2. văn miếu - quốc tử giám: đây là ngôi đền lớn nhất và quan trọng nhất tại hà nội, được xây dựng từ thế kỷ thứ 11 đến thế kỷ 14. đây là nơi tôn vinh các học giả và nhà nghiên cứu văn hóa của triều đại lý - trần. ngoài ra, bảo tàng dân tộc học việt nam cũng tổ chức nhiều triển lãm nghệ thuật và hiện vật liên quan đến văn hóa việt nam.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Đóng vai một đầu bếp và hướng dẫn tôi nấu món trứng chiên.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "chào mừng bạn đến với nhà hàng yêu thích của chúng tôi! đây là một công thức đơn giản để làm trứng chiên:\n\nnguyên liệu cần chuẩn bị:\n- 2 quả trứng gà (khoảng 150g)\n- muối, tiêu, gia vị theo khẩu vị\n\ncách làm:\n1. đánh tan trứng trong một tô nhỏ cho đến khi hỗn hợp trở nên mịn màng.\n2. thêm muối vào trứng và khuấy đều.\n3. đun nóng chảo trên lửa vừa, sau đó thêm dầu ăn và phi tỏi cho thơm.\n4. tiếp theo, thêm trứng đã đánh vào chảo và đảo nhẹ nhàng để trứng hấp thụ hương vị tốt nhất.\n5. khi trứng đã chín, tắt bếp và trình bày trứng chiên lên đĩa.\n6. thưởng thức trứng chiên ngon lành cùng gia đình và bạn bè.\n\nchúc bạn có bữa ăn thật ngon miệng! nếu bạn có bất kỳ câu hỏi nào khác, xin vui lòng liên hệ với chúng tôi qua số điện thoại [số điện thoại] hoặc email [địa chỉ email]. chúng tôi luôn sẵn sàng hỗ trợ bạn. chúc bạn thành công và thực phẩm tuyệt vời!\n\ntrân trọng,\n[tên của bạn]",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Giả sử bạn là bác sĩ, hãy khuyên tôi cách giữ sức khỏe mùa lạnh.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "dưới đây là một số lời khuyên để duy trì sức khỏe trong mùa lạnh:\n\n1. uống đủ nước: đảm bảo cơ thể được cung cấp đủ lượng nước hàng ngày bằng cách uống nhiều nước trong suốt cả ngày. hạn chế tiêu thụ đồ ăn nhanh và thức ăn có nhiều đường và chất béo bão hòa.\n\n2. tăng cường hoạt động thể lực: vận động thường xuyên giúp cải thiện sức mạnh cơ bắp và giảm nguy cơ mắc các bệnh tim mạch như cao huyết áp và tiểu đường loại 2. ngoài ra, việc tập thể dục đều đặn cũng rất quan trọng cho sức khỏe tổng thể của cơ thể.",
+      "model": "sft1_100M.pt"
+    },
+    {
+      "role": "user",
+      "text": "Hãy đóng vai một người bán hàng đang giới thiệu sản phẩm cho khách.",
+      "model": null
+    },
+    {
+      "role": "ai",
+      "text": "chào anh, có việc gì cần nhờ không ạ",
+      "model": "sft1_100M.pt"
+    }
+  ],
+  "created_at": 1786915057.57775,
+  "user_id": "w61xnq5saxtz",
+  "shared": true
+}
