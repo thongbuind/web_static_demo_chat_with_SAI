@@ -1,5 +1,6 @@
 {
   "files": [
+    "00_tong_quan",
     "01_khoa_hoc_co_ban.json",
     "02_toan_co_ban.json",
     "03_dong_vat_thuc_vat.json",
@@ -41,7 +42,6 @@
     "39_yeu_cau_dinh_dang_dau_ra.json",
     "40_suy_luan_nhieu_buoc.json",
     "41_dong_vai.json",
-    "42_input_dai_nhieu_ngu_canh.json",
-    "test100inputonly100M.json"
+    "42_input_dai_nhieu_ngu_canh.json"
   ]
 }
