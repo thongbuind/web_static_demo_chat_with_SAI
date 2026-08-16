@@ -46,6 +46,47 @@
   <div id="chat" class="visible"></div>
 </div>
 
+<!-- ===== STATIC DEMO NOTICE ===== -->
+<div id="demo-notice" class="demo-notice" role="dialog" aria-modal="true"
+  aria-labelledby="demo-notice-title" aria-describedby="demo-notice-description">
+  <div class="demo-notice-backdrop" data-modal-close></div>
+  <div class="demo-notice-card glass-elevated" role="document">
+    <button class="demo-notice-close glass-control" type="button" data-modal-close
+      aria-label="Đóng thông báo" title="Đóng">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+        stroke-width="2.2" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg>
+    </button>
+
+    <div class="demo-notice-icon" aria-hidden="true">SAI</div>
+    <p class="demo-notice-eyebrow">Thông báo nhỏ</p>
+    <h2 id="demo-notice-title">Đây là web demo tĩnh nhé!</h2>
+    <div id="demo-notice-description" class="demo-notice-description">
+      <p>Đây chỉ là một trang web tĩnh để mọi người nghía thử vài đoạn chat demo của <strong>SAI_100M</strong> thôi nhé. Hiện tại chưa có chức năng chat trực tiếp với SAI đâu — sau này có tiền host server thì mình sẽ mở cửa cho mọi người vào hành SAI sau :))</p>
+      <p>Nếu muốn tự trải nghiệm SAI ngay bây giờ thì có thể ghé Hugging Face để tải về nghịch.</p>
+      <p>Có góp ý, bắt lỗi hay muốn đóng góp gì thì cứ nhắn mình qua Facebook. Mọi phản hồi đều được trân trọng, kể cả vào chê SAI ngáo nhé.</p>
+    </div>
+
+    <div class="demo-notice-links">
+      <a class="demo-notice-link demo-notice-link-primary glass-control"
+        href="https://huggingface.co/thongbuind" target="_blank" rel="noopener noreferrer">
+        Hugging Face
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+          stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+      </a>
+      <a class="demo-notice-link glass-control" href="https://facebook.com/sai.nidai"
+        target="_blank" rel="noopener noreferrer">
+        Facebook
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+          stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+      </a>
+    </div>
+
+    <button id="demo-notice-confirm" class="demo-notice-confirm glass-action" type="button" data-modal-close>
+      Đã hiểu, cho tôi xem demo
+    </button>
+  </div>
+</div>
+
 <script src="demo_chat.js"></script>
 <script>
 // ===== POINT CLOUD =====

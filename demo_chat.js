@@ -1,9 +1,29 @@
 const FALLBACK_HISTORY_FILE = "chat_history/test100inputonly100M.json"
 const chatEl = document.getElementById("chat")
+const demoNotice = document.getElementById("demo-notice")
 
 let sidebarOpen = false
 let currentSessionId = null
 let savedSessions = []
+
+function closeDemoNotice() {
+  if (!demoNotice || demoNotice.classList.contains("is-hidden")) return
+  demoNotice.classList.add("is-hidden")
+  demoNotice.setAttribute("aria-hidden", "true")
+  document.getElementById("sidebar-open-btn")?.focus()
+}
+
+demoNotice?.querySelectorAll("[data-modal-close]").forEach(element => {
+  element.addEventListener("click", closeDemoNotice)
+})
+
+document.addEventListener("keydown", event => {
+  if (event.key === "Escape") closeDemoNotice()
+})
+
+requestAnimationFrame(() => {
+  document.getElementById("demo-notice-confirm")?.focus()
+})
 
 function toggleTheme() {
   window.SAITheme?.toggle()
